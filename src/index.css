@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --color-navy: #0c1a2e;
+  --color-navy-light: #152a45;
+  --color-gold: #c9a227;
+  --color-gold-light: #e0bc4a;
+  --color-slate-muted: #64748b;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+  font-size: 17px;
+  line-height: 1.65;
+  color: #1e293b;
+  background: #f8fafc;
+  text-rendering: optimizeLegibility;
+}
+
+img {
+  display: block;
+}

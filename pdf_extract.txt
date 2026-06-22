@@ -1,0 +1,3068 @@
+Pages: 54
+
+--- PAGE 1 ---
+JURISNEXA.ORG — HOME PAGE 
+WIREFRAME 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ HEADER                                                                       
+│ 
+│                                                                              
+│ 
+│ Left Side:                                                                   
+│ 
+│ [JURISNEXA LOGO]                                                             
+│ 
+│                                                                              
+│ 
+│ Right Side Navigation:                                                       
+│ 
+│ Home  About Us Our Services  Blogs  Contact Us  [Book a Consultation] │ 
+│                                                                              
+│ 
+│ Header Notes:                                                                
+│ 
+│ - Logo should be on the left                                                 
+│ 
+│ - Navigation should be clean and professional                                
+│ 
+│ - Book a Consultation should be the main CTA button                          
+│ 
+│ - Header should feel premium, legal, trustworthy, and recruitment-focused     
+│ 
+│ - Use a professional color palette such as navy, white, gold, grey, or deep   
+│ 
+│   blue with clean typography                                                 
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ HERO SLIDESHOW / MAIN BANNER                                                 
+│ 
+│                                                                              
+│ 
+│ Layout: Full-width slideshow                                                 
+│ 
+│ Text on left, professional image on right                                    
+│ 
+│ Each slide should include heading, subheading, short description, image, 
+and CTA buttons.                                                                 
+│ 
+
+--- PAGE 2 ---
+│                                                                              
+│ 
+│ Allowed CTA Buttons Only:                                                    
+│ 
+│ [Explore Services]     [Contact Us]     [Book a Consultation]                
+│ 
+│                                                                              
+│ 
+│ Slide 1:                                                                     
+│ 
+│ H1: Legal Services and Recruitment Solutions in India                         
+│ 
+│ Subheading:                                                                  
+│ 
+│ Jurisnexa connects businesses, law firms, professionals, and candidates 
+with reliable legal support and recruitment solutions.                            
+│ 
+│ Supporting Text:                                                             
+│ 
+│ We provide legal consultation, corporate legal support, compliance 
+guidance, legal recruitment, staffing assistance, and professional hiring 
+support for clients across India.                                                        
+│ 
+│ CTA: [Explore Services]     [Book a Consultation]                            
+│ 
+│ Image Direction:                                                             
+│ 
+│ Professional legal office, lawyer consultation, business meeting, 
+recruitment discussion, or corporate legal advisory image.                               
+│ 
+│                                                                              
+│ 
+│ Slide 2:                                                                     
+│ 
+│ H1: Hire the Right Legal and Professional Talent                              
+│ 
+│ Subheading:                                                                  
+│ 
+│ We help law firms, companies, startups, and organizations find skilled 
+legal, compliance, HR, administrative, and professional candidates.                  
+│ 
+│ Supporting Text:                                                             
+│ 
+│ From legal associates and paralegals to compliance officers and business      
+│ 
+│ support professionals, Jurisnexa helps employers simplify hiring and build    
+│ 
+│ capable teams.                                                               
+│ 
+│ CTA: [Explore Services]  [Contact Us]                                     │ 
+│ Image Direction:                                                             
+│ 
+│ Recruitment interview, hiring team, candidate screening, HR discussion, or    
+│ 
+│ legal professionals working together.                                        
+│ 
+
+--- PAGE 3 ---
+│                                                                              
+│ 
+│ Slide 3:                                                                     
+│ 
+│ H1: Professional Legal Guidance for Businesses and Individuals                
+│ 
+│ Subheading:                                                                  
+│ 
+│ Jurisnexa offers practical legal support, documentation assistance, 
+business compliance guidance, employment-related support, and consultation 
+services. 
+│ Supporting Text:                                                             
+│ 
+│ Our goal is to make legal and recruitment services more accessible, 
+organized, and professional for businesses, professionals, and job seekers in 
+India. 
+│ CTA: [Book a Consultation]     [Contact Us]                                  
+│ 
+│ Image Direction:                                                             
+│ 
+│ Legal documents, consultation desk, compliance checklist, lawyer and client   
+│ 
+│ meeting, or professional advisory image.                                     
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ INTRODUCTION SECTION                                                         
+│ 
+│                                                                              
+│ 
+│ Layout: Image on left, content on right                                      
+│ 
+│                                                                              
+│ 
+│ Left Image Direction:                                                        
+│ 
+│ Use a professional image showing a legal consultation, business meeting,      
+│ 
+│ documents, recruitment interview, or office discussion.                       
+│ 
+│                                                                              
+│ 
+│ Right Content:                                                               
+│ 
+│ H2: Your Trusted Partner for Legal and Recruitment Support                    
+│ 
+│                                                                              
+│ 
+│ Description:                                                                 
+│ 
+│ Jurisnexa is a professional law and recruitment agency in India created to    
+│ 
+
+--- PAGE 4 ---
+│ support businesses, law firms, professionals, and job seekers with reliable   
+│ 
+│ legal guidance and hiring solutions.                                         
+│ 
+│                                                                              
+│ 
+│ We bring legal service support and recruitment assistance together under 
+one platform so clients can access consultation, documentation support, 
+compliance guidance, legal hiring, staffing solutions, and candidate 
+placement services with confidence.                                                             
+│ 
+│                                                                              
+│ 
+│ CTA: [Explore Services]                                                      
+│ 
+│ CTA Endpoint: /our-services                                                  
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ SERVICES OVERVIEW SECTION                                                    
+│ 
+│                                                                              
+│ 
+│ Layout: Full-width content section                                           
+│ 
+│ Do not create heavy cards here. Use a clean text-based service overview 
+with icons or small visual markers if required.                                   
+│ 
+│                                                                              
+│ 
+│ H2: What Jurisnexa Offers                                                    
+│ 
+│                                                                              
+│ 
+│ Short Description:                                                           
+│ 
+│ Jurisnexa provides a balanced range of legal, recruitment, staffing, and      
+│ 
+│ professional support services for clients across India.                      
+│ 
+│                                                                              
+│ 
+│ Services to Include:                                                         
+│ 
+│                                                                              
+│ 
+│ Legal Consultation                                                           
+│ 
+│ Practical legal guidance for individuals, businesses, startups, and           
+│ 
+│ professionals seeking support with general legal questions, documentation,    
+│ 
+
+--- PAGE 5 ---
+│ agreements, and advisory needs.                                              
+│ 
+│                                                                              
+│ 
+│ Corporate Legal Support                                                      
+│ 
+│ Support for companies and entrepreneurs with contracts, business 
+agreements, legal documentation, policy review, compliance coordination, and 
+professional  advisory support.                                                           
+│ 
+│                                                                              
+│ 
+│ Compliance and Documentation Assistance                                      
+│ 
+│ Assistance with business documentation, employment-related documents, 
+internal policies, verification support, legal paperwork, and process-based 
+compliance guidance.                                                                    
+│ 
+│                                                                              
+│ 
+│ Legal Recruitment                                                            
+│ 
+│ Recruitment support for law firms, corporate legal departments, 
+consultancies, and businesses hiring lawyers, legal associates, paralegals, 
+compliance professionals, legal assistants, and documentation executives.                
+│ 
+│                                                                              
+│ 
+│ Staffing and HR Recruitment                                                  
+│ 
+│ Hiring support for professional roles across administration, HR, 
+operations,  customer support, compliance, office management, and business 
+support teams. 
+│                                                                              
+│ 
+│ Candidate Placement Support                                                  
+│ 
+│ Career support for job seekers looking for legal, compliance, HR,             
+│ 
+│ administrative, and professional roles across India.                         
+│ 
+│                                                                              
+│ 
+│ Business and Employment Advisory                                             
+│ 
+│ Guidance related to employment documentation, workplace policies, HR          
+│ 
+│ processes, offer letters, appointment letters, contracts, and basic           
+│ 
+│ employment-related advisory support.                                         
+│ 
+│                                                                              
+│ 
+│ CTA: [Explore Services]                                                      
+│ 
+│ CTA Endpoint: /our-services                                                  
+│ 
+
+--- PAGE 6 ---
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ LEGAL SERVICES BRIEF SECTION                                                 
+│ 
+│                                                                              
+│ 
+│ Layout: Content on left, image on right                                      
+│ 
+│                                                                              
+│ 
+│ Left Content:                                                                
+│ 
+│ H2: Legal Support Designed for Businesses and Professionals                  
+│ 
+│                                                                              
+│ 
+│ Description:                                                                 
+│ 
+│ Jurisnexa helps clients understand and manage legal requirements through      
+│ 
+│ professional consultation, documentation support, contract assistance,      
+│ 
+│ business legal guidance, compliance coordination, and employment-related      
+│ 
+│ documentation support.                                                       
+│ 
+│                                                                              
+│ 
+│ This section should explain that the company supports clients with 
+practical legal guidance, not complicated legal language. The content should 
+build trust and show that Jurisnexa is suitable for businesses, startups, 
+professionals, and individuals who need structured legal support.                            
+│ 
+│                                                                              
+│ 
+│ Key Areas to Mention:                                                        
+│ 
+│ - Legal consultation                                                         
+│ 
+│ - Corporate legal support                                                    
+│ 
+│ - Contract and agreement assistance                                          
+│ 
+│ - Business documentation support                                             
+│ 
+│ - Compliance coordination                                                    
+│ 
+│ - Employment-related legal documentation                                     
+│ 
+│                                                                              
+│ 
+│ CTA: [Book a Consultation]                                                   
+│ 
+
+--- PAGE 7 ---
+│ CTA Endpoint: /book-a-consultation                                           
+│ 
+│                                                                              
+│ 
+│ Right Image Direction:                                                       
+│ 
+│ Use image of lawyer consultation, legal documents, agreement signing, or      
+│ 
+│ business legal advisory meeting.                                             
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ RECRUITMENT SERVICES BRIEF SECTION                                           
+│ 
+│                                                                              
+│ 
+│ Layout: Image on left, content on right                                      
+│ 
+│                                                                              
+│ 
+│ Left Image Direction:                                                        
+│ 
+│ Use image of HR recruitment, candidate interview, resume screening, legal     
+│ 
+│ hiring team, or professional staffing discussion.                            
+│ 
+│                                                                              
+│ 
+│ Right Content:                                                               
+│ 
+│ H2: Recruitment and Staffing Solutions for Growing Teams                     
+│ 
+│                                                                              
+│ 
+│ Description:                                                                 
+│ 
+│ Jurisnexa supports employers with recruitment services for legal, 
+compliance, administrative, HR, and professional roles. We help businesses 
+and law firms identify suitable candidates, simplify hiring, and reduce the 
+time spent on screening and shortlisting.                                                  
+│ 
+│                                                                              
+│ 
+│ The recruitment service is designed for law firms, companies, startups,       
+│ 
+│ consultancies, corporate legal teams, and organizations that need reliable    
+│ 
+│ talent support.                                                              
+│ 
+│                                                                              
+│ 
+│ Key Areas to Mention:                                                        
+│ 
+
+--- PAGE 8 ---
+│ - Legal hiring                                                               
+│ 
+│ - Law firm recruitment                                                       
+│ 
+│ - Corporate legal department hiring                                          
+│ 
+│ - Compliance and documentation roles                                         
+│ 
+│ - HR and administrative staffing                                             
+│ 
+│ - Professional candidate placement                                           
+│ 
+│                                                                              
+│ 
+│ CTA: [Contact Us]                                                            
+│ 
+│ CTA Endpoint: /contact-us                                                    
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ WHO WE HELP SECTION                                                          
+│ 
+│                                                                              
+│ 
+│ Layout: Text on left, professional image or industry icons on right           
+│ 
+│                                                                              
+│ 
+│ H2: Who We Help                                                              
+│ 
+│                                                                              
+│ 
+│ Description:                                                                 
+│ 
+│ Jurisnexa works with clients who need dependable legal, recruitment, and      
+│ 
+│ professional support services in India.                                      
+│ 
+│                                                                              
+│ 
+│ Client Types to Mention:                                                     
+│ 
+│ - Law firms                                                                  
+│ 
+│ - Corporate legal departments                                                
+│ 
+│ - Startups and entrepreneurs                                                 
+│ 
+│ - Small and medium-sized businesses                                          
+│ 
+│ - HR teams and recruitment managers                                          
+│ 
+
+--- PAGE 9 ---
+│ - Compliance-focused organizations                                           
+│ 
+│ - Job seekers and legal professionals                                        
+│ 
+│ - Businesses needing documentation and advisory support                      
+│ 
+│                                                                              
+│ 
+│ CTA: [Explore Services]                                                      
+│ 
+│ CTA Endpoint: /our-services                                                  
+│ 
+│                                                                              
+│ 
+│ Image Direction:                                                             
+│ 
+│ Use image showing mixed professional audience, business owners, lawyers, HR   
+│ 
+│ managers, and candidates.                                                    
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ WHY CHOOSE JURISNEXA SECTION                                                 
+│ 
+│                                                                              
+│ 
+│ Layout: Full-width trust-building section                                    
+│ 
+│ Keep this section clean. Do not create large cards. Use short benefit 
+blocks or simple text columns.                                                      
+│ 
+│                                                                              
+│ 
+│ H2: Why Choose Jurisnexa                                                     
+│ 
+│                                                                              
+│ 
+│ Description:                                                                 
+│ 
+│ Jurisnexa combines legal service understanding with recruitment experience 
+to provide clients with practical support, professional communication, and 
+reliable service delivery.                                                   
+│ 
+│                                                                              
+│ 
+│ Benefits to Include:                                                         
+│ 
+│                                                                              
+│ 
+│ Legal and Recruitment Focus                                                  
+│ 
+
+--- PAGE 10 ---
+│ A combined platform for legal support, legal hiring, professional staffing, 
+and candidate placement.                                                     
+│ 
+│                                                                              
+│ 
+│ India-Focused Services                                                       
+│ 
+│ Services designed for Indian businesses, law firms, professionals, job 
+seekers and growing organizations.                                                   
+│ 
+│                                                                              
+│ 
+│ Professional Consultation                                                    
+│ 
+│ Clear communication, structured guidance, and practical next steps for 
+legal and recruitment requirements.                                                
+│ 
+│                                                                              
+│ 
+│ Business-Friendly Approach                                                   
+│ 
+│ Support for startups, SMEs, corporate teams, HR departments, and law 
+offices that need reliable legal and hiring assistance.                              
+│ 
+│                                                                              
+│ 
+│ CTA: [Book a Consultation]                                                   
+│ 
+│ CTA Endpoint: /book-a-consultation                                           
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ PROCESS SECTION                                                              
+│ 
+│                                                                              
+│ 
+│ Layout: Simple horizontal process flow                                       
+│ 
+│                                                                              
+│ 
+│ H2: How We Work                                                              
+│ 
+│                                                                              
+│ 
+│ Step 1: Understand Your Requirement                                          
+│ 
+│ We understand whether you need legal consultation, documentation support,     
+│ 
+│ recruitment assistance, candidate placement, or business advisory support.    
+│ 
+│                                                                              
+│ 
+
+--- PAGE 11 ---
+│ Step 2: Review and Plan                                                      
+│ 
+│ Our team reviews your requirement and recommends the right service 
+direction, consultation process, or hiring approach.                                    
+│ 
+│                                                                              
+│ 
+│ Step 3: Service or Talent Support                                            
+│ 
+│ We provide legal support, prepare service guidance, shortlist candidates,     
+│ 
+│ coordinate recruitment, or assist with documentation depending on your 
+need.  │ 
+│                                                                              
+│ 
+│ Step 4: Follow-Up and Ongoing Assistance                                     
+│ 
+│ We support clients with communication, updates, consultation follow-up, and   
+│ 
+│ next-step guidance.                                                          
+│ 
+│                                                                              
+│ 
+│ CTA: [Contact Us]                                                            
+│ 
+│ CTA Endpoint: /contact-us                                                    
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ FINAL CTA SECTION                                                            
+│ 
+│                                                                              
+│ 
+│ Layout: Full-width CTA banner                                                
+│ 
+│                                                                              
+│ 
+│ H2: Need Legal Support or Recruitment Assistance?                            
+│ 
+│                                                                              
+│ 
+│ Subheading:                                                                  
+│ 
+│ Connect with Jurisnexa to discuss legal consultation, corporate legal 
+support, compliance guidance, legal recruitment, staffing solutions, 
+candidate placement, and professional hiring needs in India.                           
+│ 
+│                                                                              
+│ 
+│ CTA Buttons:                                                                 
+│ 
+
+--- PAGE 12 ---
+│ [Book a Consultation]     [Contact Us]                                       
+│ 
+│                                                                              
+│ 
+│ CTA Endpoints:                                                               
+│ 
+│ Book a Consultation: /book-a-consultation                                    
+│ 
+│ Contact Us: /contact-us                                                      
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ FOOTER                                                                       
+│ 
+│                                                                              
+│ 
+│ Left Column:                                                                 
+│ 
+│ [JURISNEXA LOGO]                                                            
+│ 
+│ Jurisnexa is a law and recruitment agency in India offering legal 
+consultation, corporate legal support, compliance guidance, legal 
+recruitment, staffing solutions, candidate placement, and professional 
+advisory services.                                                                         
+│ 
+│ Quick Links:                                                                 
+│ 
+│ Home | About Us | Our Services | Blogs | Contact Us | Book a Consultation    
+│ 
+│                                                                              
+│ 
+│ Services Links:                                                              
+│ 
+│ Legal Consultation | Corporate Legal Support | Compliance Assistance | 
+Legal Recruitment | Staffing Solutions | Candidate Placement | Employment 
+Advisory │ 
+ 
+   Social media: FB | Instagram | X 
+│                                                                              
+│ 
+│ Contact Details:                                                             
+│ 
+│ Email: info@jurisnexa.org                                                    
+│ 
+│ Location: India                                                              
+│ 
+│ Website: www.jurisnexa.org                                                   
+│ 
+│                                                                              
+│ 
+│ Footer Bottom:                                                               
+│ 
+
+--- PAGE 13 ---
+│ © 2026 Jurisnexa. All rights reserved.                                       
+│ 
+ 
+ 
+JURISNEXA.ORG — ABOUT US PAGE 
+WIREFRAME 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ HEADER                                                                       
+│ 
+│                                                                               
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ ABOUT HERO / BANNER SECTION                                                  
+│ 
+│                                                                              
+│ 
+│ Layout: Text on left, professional legal/recruitment image on right           
+│ 
+│                                                                              
+│ 
+│ H1: About Jurisnexa                                                          
+│ 
+│                                                                              
+│ 
+│ Subheading:                                                                  
+│ 
+│ Jurisnexa is a law and recruitment agency in India helping businesses, law    
+│ 
+│ firms, professionals, and job seekers access reliable legal support, hiring   
+│ 
+│ assistance, staffing solutions, and consultation services.                    
+│ 
+│                                                                              
+│ 
+│ Supporting Text:                                                             
+│ 
+│ We bring together legal service support and recruitment expertise to help     
+│ 
+│ clients manage documentation, compliance, corporate legal needs, employment   
+│ 
+│ support, legal hiring, candidate placement, and professional staffing with    
+│ 
+│ confidence.                                                                  
+│ 
+│                                                                              
+│ 
+
+--- PAGE 14 ---
+│ CTA Buttons:                                                                 
+│ 
+│ [Explore Services]     [Book a Consultation]                                 
+│ 
+│                                                                              
+│ 
+│ Right Image Direction:                                                       
+│ 
+│ Use an image showing a lawyer consultation, professional office discussion,   
+│ 
+│ recruitment meeting, legal documents, and business advisory environment.      
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ WHO WE ARE SECTION                                                           
+│ 
+│                                                                              
+│ 
+│ Layout: Image on left, content on right                                      
+│ 
+│                                                                              
+│ 
+│ Left Image Direction:                                                        
+│ 
+│ Use image of legal professionals, HR consultants, business owners, or a       
+│ 
+│ professional consultation meeting.                                           
+│ 
+│                                                                              
+│ 
+│ Right Content:                                                               
+│ 
+│ H2: Who We Are                                                               
+│ 
+│                                                                              
+│ 
+│ Description:                                                                 
+│ 
+│ Jurisnexa is created to support clients who need practical legal guidance 
+and │ 
+│ professional recruitment solutions in India. The company works with           
+│ 
+│ businesses, startups, law firms, corporate teams, professionals, and job      
+│ 
+│ seekers by providing structured support for legal consultation, 
+documentation,│ 
+│ compliance guidance, hiring, staffing, and candidate placement.               
+│ 
+│                                                                              
+│ 
+│ Jurisnexa is designed as a professional platform where legal support and      
+│ 
+
+--- PAGE 15 ---
+│ recruitment services come together. Whether a client needs help reviewing     
+│ 
+│ legal documentation, hiring legal talent, finding professional staff, or      
+│ 
+│ understanding basic compliance requirements, Jurisnexa provides clear         
+│ 
+│ direction and organized service support.                                     
+│ 
+│                                                                              
+│ 
+│ CTA: [Explore Services]                                                      
+│ 
+│ CTA Endpoint: /our-services                                                  
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ COMPANY OVERVIEW SECTION                                                     
+│ 
+│                                                                              
+│ 
+│ Layout: Content on left, image on right                                      
+│ 
+│                                                                              
+│ 
+│ Left Content:                                                                
+│ 
+│ H2: A Combined Platform for Legal and Recruitment Support                    
+│ 
+│                                                                              
+│ 
+│ Description:                                                                 
+│ 
+│ Jurisnexa serves clients who need dependable legal and hiring assistance      
+│ 
+│ without dealing with scattered service providers. The company focuses on      
+│ 
+│ practical legal consultation, corporate legal support, compliance 
+assistance, │ 
+│ employment documentation, legal recruitment, staffing, HR hiring, and         
+│ 
+│ candidate placement services.                                                
+│ 
+│                                                                              
+│ 
+│ Our approach is simple: understand the client’s requirement, recommend the    
+│ 
+│ right service direction, provide professional support, and help the client    
+│ 
+│ move forward with clarity.                                                   
+│ 
+│                                                                              
+│ 
+
+--- PAGE 16 ---
+│ CTA: [Contact Us]                                                            
+│ 
+│ CTA Endpoint: /contact-us                                                    
+│ 
+│                                                                              
+│ 
+│ Right Image Direction:                                                       
+│ 
+│ Use image showing legal documents, recruitment screening, client 
+discussion,  │ 
+│ or professional advisory workspace.                                          
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ MISSION SECTION                                                              
+│ 
+│                                                                              
+│ 
+│ Layout: Image on left, mission statement on right                            
+│ 
+│                                                                              
+│ 
+│ Left Image Direction:                                                        
+│ 
+│ Use image of professionals working together, legal consultation, or 
+business  │ 
+│ support meeting.                                                             
+│ 
+│                                                                              
+│ 
+│ Right Content:                                                               
+│ 
+│ H2: Our Mission                                                              
+│ 
+│                                                                              
+│ 
+│ Mission Statement:                                                           
+│ 
+│ Our mission is to make legal support, recruitment assistance, and 
+professional│ 
+│ hiring services more accessible, organized, and reliable for businesses, 
+law  │ 
+│ firms, professionals, and job seekers across India.                           
+│ 
+│                                                                              
+│ 
+│ Supporting Description:                                                      
+│ 
+│ Jurisnexa aims to simplify legal and recruitment processes by offering 
+clear  │ 
+│ consultation, structured documentation support, practical compliance 
+guidance,│ 
+
+--- PAGE 17 ---
+│ legal hiring assistance, staffing solutions, and candidate placement 
+services.│ 
+│                                                                              
+│ 
+│ CTA: [Book a Consultation]                                                   
+│ 
+│ CTA Endpoint: /book-a-consultation                                           
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ VISION SECTION                                                               
+│ 
+│                                                                              
+│ 
+│ Layout: Content on left, image on right                                      
+│ 
+│                                                                              
+│ 
+│ Left Content:                                                                
+│ 
+│ H2: Our Vision                                                               
+│ 
+│                                                                              
+│ 
+│ Vision Statement:                                                            
+│ 
+│ Our vision is to become a trusted legal and recruitment support platform in   
+│ 
+│ India, known for professional service, ethical guidance, dependable hiring    
+│ 
+│ support, and client-focused solutions.                                       
+│ 
+│                                                                              
+│ 
+│ Supporting Description:                                                      
+│ 
+│ Jurisnexa aims to support the growth of Indian businesses, law firms, and     
+│ 
+│ professionals by connecting legal service needs with recruitment solutions    
+│ 
+│ under one reliable platform.                                                 
+│ 
+│                                                                              
+│ 
+│ CTA: [Explore Services]                                                      
+│ 
+│ CTA Endpoint: /our-services                                                  
+│ 
+│                                                                              
+│ 
+│ Right Image Direction:                                                       
+│ 
+
+--- PAGE 18 ---
+│ Use image of city business skyline, professional team, legal office, or       
+│ 
+│ future-focused business growth visual.                                       
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ OUR VALUES SECTION                                                           
+│ 
+│                                                                              
+│ 
+│ Layout: Full-width section with simple text columns or clean value blocks     
+│ 
+│ Do not create heavy cards. Keep it simple, professional, and easy to read.    
+│ 
+│                                                                              
+│ 
+│ H2: Our Values                                                               
+│ 
+│                                                                              
+│ 
+│ Description:                                                                 
+│ 
+│ Our values guide how we work with clients, candidates, businesses, and        
+│ 
+│ professionals. Jurisnexa focuses on trust, clarity, professionalism, and      
+│ 
+│ practical support.                                                           
+│ 
+│                                                                              
+│ 
+│ Values to Include:                                                           
+│ 
+│                                                                              
+│ 
+│ Professional Integrity                                                       
+│ 
+│ We believe in honest communication, responsible guidance, and professional    
+│ 
+│ service delivery for every client and candidate.                             
+│ 
+│                                                                              
+│ 
+│ Client-Focused Support                                                       
+│ 
+│ We take time to understand each client’s legal, recruitment, staffing, or     
+│ 
+│ consultation need before recommending the right direction.                    
+│ 
+│                                                                              
+│ 
+│ Confidentiality                                                              
+│ 
+
+--- PAGE 19 ---
+│ We respect the sensitivity of legal matters, hiring decisions, candidate      
+│ 
+│ profiles, business documents, and client information.                         
+│ 
+│                                                                              
+│ 
+│ Practical Guidance                                                           
+│ 
+│ We aim to provide clear, useful, and action-oriented support instead of       
+│ 
+│ confusing clients with unnecessary complexity.                                
+│ 
+│                                                                              
+│ 
+│ Quality and Reliability                                                      
+│ 
+│ We focus on organized processes, careful communication, and dependable 
+support│ 
+│ across legal services, recruitment, documentation, and consultation.          
+│ 
+│                                                                              
+│ 
+│ Growth and Opportunity                                                       
+│ 
+│ We support businesses in finding talent and help professionals explore 
+better │ 
+│ career opportunities in legal, compliance, HR, and business support roles.    
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ WHAT WE DO SECTION                                                           
+│ 
+│                                                                              
+│ 
+│ Layout: Image on left, content on right                                      
+│ 
+│                                                                              
+│ 
+│ Left Image Direction:                                                        
+│ 
+│ Use image showing legal advisory, HR recruitment, candidate screening, and    
+│ 
+│ business consultation together.                                              
+│ 
+│                                                                              
+│ 
+│ Right Content:                                                               
+│ 
+│ H2: What We Do                                                               
+│ 
+│                                                                              
+│ 
+
+--- PAGE 20 ---
+│ Description:                                                                 
+│ 
+│ Jurisnexa provides legal and recruitment-related services for businesses, 
+law │ 
+│ firms, professionals, and job seekers. The website should clearly explain 
+that│ 
+│ the company supports both service sides: legal assistance and hiring 
+support. │ 
+│                                                                              
+│ 
+│ Services to Mention Briefly:                                                 
+│ 
+│ - Legal consultation                                                         
+│ 
+│ - Corporate legal support                                                    
+│ 
+│ - Compliance and documentation assistance                                    
+│ 
+│ - Legal recruitment                                                          
+│ 
+│ - Staffing and HR recruitment                                                
+│ 
+│ - Candidate placement support                                                
+│ 
+│ - Employment and business advisory                                           
+│ 
+│ - Professional consultation services                                         
+│ 
+│                                                                              
+│ 
+│ CTA: [Explore Services]                                                      
+│ 
+│ CTA Endpoint: /our-services                                                  
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ WHO WE SERVE SECTION                                                         
+│ 
+│                                                                              
+│ 
+│ Layout: Text on left, professional audience image on right                    
+│ 
+│                                                                              
+│ 
+│ H2: Who We Serve                                                             
+│ 
+│                                                                              
+│ 
+│ Description:                                                                 
+│ 
+
+--- PAGE 21 ---
+│ Jurisnexa works with clients across legal, business, HR, compliance, and      
+│ 
+│ professional service environments in India.                                  
+│ 
+│                                                                              
+│ 
+│ Client Groups to Mention:                                                    
+│ 
+│ - Law firms                                                                  
+│ 
+│ - Corporate legal departments                                                
+│ 
+│ - Startups and entrepreneurs                                                 
+│ 
+│ - Small and medium-sized businesses                                          
+│ 
+│ - HR teams and hiring managers                                               
+│ 
+│ - Compliance-focused organizations                                           
+│ 
+│ - Legal professionals and job seekers                                        
+│ 
+│ - Businesses needing documentation support                                   
+│ 
+│                                                                              
+│ 
+│ CTA: [Explore Services]                                                      
+│ 
+│ CTA Endpoint: /our-services                                                  
+│ 
+│                                                                              
+│ 
+│ Image Direction:                                                             
+│ 
+│ Use image of lawyers, HR managers, business owners, candidates, and           
+│ 
+│ professional teams.                                                          
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ WHY CHOOSE JURISNEXA SECTION                                                 
+│ 
+│                                                                              
+│ 
+│ Layout: Full-width trust-building section                                    
+│ 
+│ Use simple benefit points. Do not make the section look too crowded.          
+│ 
+│                                                                              
+│ 
+│ H2: Why Choose Jurisnexa                                                     
+│ 
+
+--- PAGE 22 ---
+│                                                                              
+│ 
+│ Description:                                                                 
+│ 
+│ Jurisnexa combines legal service awareness with recruitment support to 
+provide│ 
+│ clients with a professional, organized, and practical service experience.     
+│ 
+│                                                                              
+│ 
+│ Reasons to Include:                                                          
+│ 
+│                                                                              
+│ 
+│ Combined Legal and Recruitment Focus                                         
+│ 
+│ Clients can access legal support, legal hiring, staffing assistance, and      
+│ 
+│ candidate placement from one platform.                                       
+│ 
+│                                                                              
+│ 
+│ India-Focused Service Approach                                               
+│ 
+│ Services are designed for Indian businesses, law firms, professionals, and    
+│ 
+│ candidates.                                                                  
+│ 
+│                                                                              
+│ 
+│ Clear Communication                                                          
+│ 
+│ We explain service options clearly and help clients understand the next 
+steps │ 
+│ without unnecessary confusion.                                               
+│ 
+│                                                                              
+│ 
+│ Professional Network Support                                                 
+│ 
+│ Jurisnexa helps connect employers with suitable professionals and supports    
+│ 
+│ candidates looking for legal, compliance, HR, and business roles.             
+│ 
+│                                                                              
+│ 
+│ Confidential and Trustworthy Process                                         
+│ 
+│ We handle legal documents, business requirements, candidate profiles, and     
+│ 
+│ hiring information with care and professionalism.                            
+│ 
+│                                                                              
+│ 
+│ CTA: [Book a Consultation]                                                   
+│ 
+
+--- PAGE 23 ---
+│ CTA Endpoint: /book-a-consultation                                           
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ OUR PROCESS SECTION                                                          
+│ 
+│                                                                              
+│ 
+│ Layout: Simple horizontal process flow                                       
+│ 
+│                                                                              
+│ 
+│ H2: Our Process                                                              
+│ 
+│                                                                              
+│ 
+│ Step 1: Understand the Requirement                                           
+│ 
+│ We identify whether the client needs legal support, documentation 
+assistance,│ 
+│ recruitment help, staffing support, candidate placement, or consultation.     
+│ 
+│                                                                              
+│ 
+│ Step 2: Review and Recommend                                                 
+│ 
+│ We review the requirement and recommend the most suitable service 
+direction,  │ 
+│ hiring approach, or consultation pathway.                                    
+│ 
+│                                                                              
+│ 
+│ Step 3: Provide Support                                                      
+│ 
+│ We assist with legal guidance, documentation, recruitment coordination,       
+│ 
+│ candidate shortlisting, staffing support, or professional consultation.       
+│ 
+│                                                                              
+│ 
+│ Step 4: Follow Up                                                            
+│ 
+│ We communicate updates, share next steps, and support the client or 
+candidate │ 
+│ through the process.                                                         
+│ 
+│                                                                              
+│ 
+│ CTA: [Contact Us]                                                            
+│ 
+│ CTA Endpoint: /contact-us                                                    
+│ 
+
+--- PAGE 24 ---
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ FINAL CTA SECTION                                                            
+│ 
+│                                                                              
+│ 
+│ Layout: Full-width CTA banner                                                
+│ 
+│                                                                              
+│ 
+│ H2: Looking for Legal Support or Recruitment Assistance?                     
+│ 
+│                                                                              
+│ 
+│ Subheading:                                                                  
+│ 
+│ Connect with Jurisnexa to discuss legal consultation, corporate legal 
+support,│ 
+│ compliance assistance, legal recruitment, staffing solutions, candidate       
+│ 
+│ placement, and professional advisory services in India.                      
+│ 
+│                                                                              
+│ 
+│ CTA Buttons:                                                                 
+│ 
+│ [Book a Consultation]     [Contact Us]                                       
+│ 
+│                                                                              
+│ 
+│ CTA Endpoints:                                                               
+│ 
+│ Book a Consultation: /book-a-consultation                                    
+│ 
+│ Contact Us: /contact-us                                                      
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ FOOTER                                                                       
+│ 
+│                                                                               
+ 
+ 
+
+--- PAGE 25 ---
+JURISNEXA.ORG — OUR SERVICES 
+PAGE WIREFRAME 
+│ HEADER                                                                       
+│ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ SERVICES HERO / BANNER SECTION                                               
+│ 
+│                                                                              
+│ 
+│ Layout: Text on left, professional legal/recruitment image on right           
+│ 
+│                                                                              
+│ 
+│ H1: Our Legal and Recruitment Services                                       
+│ 
+│                                                                              
+│ 
+│ Subheading:                                                                  
+│ 
+│ Jurisnexa provides legal consultation, corporate legal support, compliance    
+│ 
+│ assistance, legal recruitment, staffing solutions, candidate placement, and   
+│ 
+│ professional advisory services across India.                                 
+│ 
+│                                                                              
+│ 
+│ Supporting Text:                                                             
+│ 
+│ Whether you are a business looking for legal guidance, a law firm hiring      
+│ 
+│ legal talent, an employer building a professional team, or a candidate        
+│ 
+│ searching for career opportunities, Jurisnexa offers structured support       
+│ 
+│ designed around your needs.                                                  
+│ 
+│                                                                              
+│ 
+│ CTA Buttons:                                                                 
+│ 
+│ [Book a Consultation]     [Contact Us]                                       
+│ 
+│                                                                              
+│ 
+│ Right Image Direction:                                                       
+│ 
+│ Use an image showing legal consultation, recruitment discussion, 
+professional │ 
+
+--- PAGE 26 ---
+│ hiring, legal documents, and business advisory environment.                   
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ SERVICES INTRODUCTION SECTION                                                
+│ 
+│                                                                              
+│ 
+│ Layout: Full-width short introduction                                        
+│ 
+│                                                                              
+│ 
+│ H2: Complete Support for Legal, Hiring, and Professional Needs               
+│ 
+│                                                                              
+│ 
+│ Description:                                                                 
+│ 
+│ Jurisnexa brings together legal service support and recruitment assistance    
+│ 
+│ under one professional platform. Our services are designed for law firms,     
+│ 
+│ businesses, startups, HR teams, corporate legal departments, professionals,   
+│ 
+│ and job seekers who need reliable guidance, staffing support, documentation   
+│ 
+│ assistance, and consultation services in India.                              
+│ 
+│                                                                              
+│ 
+│ Section Note:                                                                
+│ 
+│ Keep this section simple and clean. It should introduce the service page      
+│ 
+│ before the detailed service sections begin.                                  
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ SERVICE SECTION 1                                                            
+│ 
+│                                                                              
+│ 
+│ Layout: Image on left, heading and description on right                       
+│ 
+│                                                                              
+│ 
+│ Left Image Direction:                                                        
+│ 
+
+--- PAGE 27 ---
+│ Use image of lawyer consultation, client meeting, legal documents, or         
+│ 
+│ professional legal advisory discussion.                                      
+│ 
+│                                                                              
+│ 
+│ Right Content:                                                               
+│ 
+│ H2: Legal Consultation                                                       
+│ 
+│                                                                              
+│ 
+│ Description:                                                                 
+│ 
+│ Jurisnexa provides legal consultation support for individuals, businesses,    
+│ 
+│ startups, professionals, and organizations seeking clear direction on legal   
+│ 
+│ matters. This service is designed for clients who need practical guidance,    
+│ 
+│ organized discussion, and professional support before taking the next step.   
+│ 
+│                                                                              
+│ 
+│ Legal consultation may include general legal guidance, document review        
+│ 
+│ support, business-related legal questions, employment-related concerns,       
+│ 
+│ contract discussion, and advisory support for professional or business 
+needs. │ 
+│                                                                              
+│ 
+│ CTA: [Book a Consultation]                                                   
+│ 
+│ CTA Endpoint: /book-a-consultation                                           
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ SERVICE SECTION 2                                                            
+│ 
+│                                                                              
+│ 
+│ Layout: Image on left, heading and description on right                       
+│ 
+│                                                                              
+│ 
+│ Left Image Direction:                                                        
+│ 
+│ Use image of corporate legal documents, contract signing, boardroom 
+meeting,  │ 
+│ business advisory, or company documentation review.                          
+│ 
+
+--- PAGE 28 ---
+│                                                                              
+│ 
+│ Right Content:                                                               
+│ 
+│ H2: Corporate Legal Support                                                  
+│ 
+│                                                                              
+│ 
+│ Description:                                                                 
+│ 
+│ Jurisnexa supports companies, startups, entrepreneurs, and business owners    
+│ 
+│ with corporate legal service coordination and documentation assistance. 
+This  │ 
+│ service helps businesses manage legal paperwork, agreements, internal         
+│ 
+│ policies, business documents, and advisory requirements in a more 
+structured  │ 
+│ and professional way.                                                        
+│ 
+│                                                                              
+│ 
+│ Corporate legal support may include contract assistance, agreement review     
+│ 
+│ coordination, business documentation support, policy documentation, 
+workplace │ 
+│ documentation, and general corporate advisory support.                        
+│ 
+│                                                                              
+│ 
+│ CTA: [Book a Consultation]                                                   
+│ 
+│ CTA Endpoint: /book-a-consultation                                           
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ SERVICE SECTION 3                                                            
+│ 
+│                                                                              
+│ 
+│ Layout: Image on left, heading and description on right                       
+│ 
+│                                                                              
+│ 
+│ Left Image Direction:                                                        
+│ 
+│ Use image of compliance checklist, documentation review, legal paperwork,     
+│ 
+│ business files, policy documents, or verification process.                    
+│ 
+│                                                                              
+│ 
+
+--- PAGE 29 ---
+│ Right Content:                                                               
+│ 
+│ H2: Compliance and Documentation Assistance                                  
+│ 
+│                                                                              
+│ 
+│ Description:                                                                 
+│ 
+│ Jurisnexa helps clients organize legal, business, employment, and 
+compliance  │ 
+│ documentation in a clear and professional manner. This service is useful 
+for  │ 
+│ businesses, HR teams, startups, and professionals who need help managing      
+│ 
+│ documents, policies, verification support, and basic compliance 
+coordination. │ 
+│                                                                              
+│ 
+│ Services may include assistance with employment documents, appointment        
+│ 
+│ letters, offer letters, internal policy drafts, documentation checklists,     
+│ 
+│ business paperwork, process-based compliance support, and document review     
+│ 
+│ coordination.                                                               
+│ 
+│                                                                              
+│ 
+│ CTA: [Book a Consultation]                                                   
+│ 
+│ CTA Endpoint: /book-a-consultation                                           
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ SERVICE SECTION 4                                                            
+│ 
+│                                                                              
+│ 
+│ Layout: Image on left, heading and description on right                       
+│ 
+│                                                                              
+│ 
+│ Left Image Direction:                                                        
+│ 
+│ Use image of legal hiring discussion, law office recruitment, candidate       
+│ 
+│ interview, resume review, or legal professionals in a meeting.                
+│ 
+│                                                                              
+│ 
+│ Right Content:                                                               
+│ 
+
+--- PAGE 30 ---
+│ H2: Legal Recruitment                                                        
+│ 
+│                                                                              
+│ 
+│ Description:                                                                 
+│ 
+│ Jurisnexa provides recruitment support for law firms, corporate legal         
+│ 
+│ departments, consultancies, startups, and businesses hiring legal and         
+│ 
+│ compliance professionals. The service helps employers reduce screening 
+time,  │ 
+│ identify suitable candidates, and manage the hiring process more 
+efficiently. │ 
+│                                                                              
+│ 
+│ Legal recruitment may include hiring support for legal associates, lawyers,   
+│ 
+│ paralegals, legal assistants, documentation executives, compliance 
+officers,  │ 
+│ contract professionals, and corporate legal team members.                     
+│ 
+│                                                                              
+│ 
+│ CTA: [Book a Consultation]                                                   
+│ 
+│ CTA Endpoint: /book-a-consultation                                           
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ SERVICE SECTION 5                                                            
+│ 
+│                                                                              
+│ 
+│ Layout: Image on left, heading and description on right                       
+│ 
+│                                                                              
+│ 
+│ Left Image Direction:                                                        
+│ 
+│ Use image of HR recruitment, candidate interview, office hiring discussion,   
+│ 
+│ staffing team, or professional resume screening.                             
+│ 
+│                                                                              
+│ 
+│ Right Content:                                                               
+│ 
+│ H2: Staffing and HR Recruitment                                              
+│ 
+│                                                                              
+│ 
+
+--- PAGE 31 ---
+│ Description:                                                                 
+│ 
+│ Jurisnexa helps employers find professional staff for HR, administration,     
+│ 
+│ operations, compliance, customer support, documentation, office management,   
+│ 
+│ and business support roles. This service is designed for organizations that   
+│ 
+│ need dependable hiring assistance without managing the full recruitment       
+│ 
+│ process alone.                                                               
+│ 
+│                                                                              
+│ 
+│ Staffing and HR recruitment support may include requirement discussion, 
+role  │ 
+│ understanding, candidate sourcing support, shortlisting, interview            
+│ 
+│ coordination, and hiring process assistance for professional roles.           
+│ 
+│                                                                              
+│ 
+│ CTA: [Book a Consultation]                                                   
+│ 
+│ CTA Endpoint: /book-a-consultation                                           
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ SERVICE SECTION 6                                                            
+│ 
+│                                                                              
+│ 
+│ Layout: Image on left, heading and description on right                       
+│ 
+│                                                                              
+│ 
+│ Left Image Direction:                                                        
+│ 
+│ Use image of job seeker consultation, resume review, career discussion,       
+│ 
+│ interview preparation, or candidate placement support.                        
+│ 
+│                                                                              
+│ 
+│ Right Content:                                                               
+│ 
+│ H2: Candidate Placement Support                                              
+│ 
+│                                                                              
+│ 
+│ Description:                                                                 
+│ 
+
+--- PAGE 32 ---
+│ Jurisnexa supports candidates and professionals looking for legal, 
+compliance,│ 
+│ HR, administrative, and business support roles across India. This service     
+│ 
+│ helps job seekers understand suitable opportunities, present their profile    
+│ 
+│ professionally, and connect with relevant hiring requirements.                
+│ 
+│                                                                              
+│ 
+│ Candidate placement support may include profile review, opportunity 
+matching, │ 
+│ interview coordination, career guidance, legal job placement support, and     
+│ 
+│ professional hiring communication.                                           
+│ 
+│                                                                              
+│ 
+│ CTA: [Book a Consultation]                                                   
+│ 
+│ CTA Endpoint: /book-a-consultation                                           
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ SERVICE SECTION 7                                                            
+│ 
+│                                                                              
+│ 
+│ Layout: Image on left, heading and description on right                       
+│ 
+│                                                                              
+│ 
+│ Left Image Direction:                                                        
+│ 
+│ Use image of employment documents, HR policy discussion, offer letter,        
+│ 
+│ workplace documentation, or business advisory meeting.                        
+│ 
+│                                                                              
+│ 
+│ Right Content:                                                               
+│ 
+│ H2: Employment and Business Advisory                                         
+│ 
+│                                                                              
+│ 
+│ Description:                                                                 
+│ 
+│ Jurisnexa provides employment and business advisory support for companies, 
+HR │ 
+│ teams, startups, and professionals who need guidance with workplace           
+│ 
+
+--- PAGE 33 ---
+│ documentation, employment-related processes, internal policies, appointment   
+│ 
+│ letters, offer letters, contracts, and business support documentation.        
+│ 
+│                                                                              
+│ 
+│ This service is useful for clients who want practical guidance on 
+employment  │ 
+│ documents, professional communication, HR documentation, basic business       
+│ 
+│ processes, and structured advisory support.                                  
+│ 
+│                                                                              
+│ 
+│ CTA: [Book a Consultation]                                                   
+│ 
+│ CTA Endpoint: /book-a-consultation                                           
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ SERVICE SECTION 8                                                            
+│ 
+│                                                                              
+│ 
+│ Layout: Image on left, heading and description on right                       
+│ 
+│                                                                              
+│ 
+│ Left Image Direction:                                                        
+│ 
+│ Use image of professional consultation, business planning, legal and HR 
+team  │ 
+│ discussion, client meeting, or advisory session.                              
+│ 
+│                                                                              
+│ 
+│ Right Content:                                                               
+│ 
+│ H2: Professional Consultation Services                                       
+│ 
+│                                                                              
+│ 
+│ Description:                                                                 
+│ 
+│ Jurisnexa offers professional consultation services for clients who need 
+help │ 
+│ understanding the right legal, recruitment, staffing, or documentation        
+│ 
+│ solution. This service is suitable for businesses, law firms, 
+professionals,  │ 
+│ startups, HR teams, and candidates who are unsure where to begin.             
+│ 
+
+--- PAGE 34 ---
+│                                                                              
+│ 
+│ Through consultation, Jurisnexa helps clients identify the right service 
+path,│ 
+│ understand available options, prepare next steps, and move forward with       
+│ 
+│ better clarity and confidence.                                               
+│ 
+│                                                                              
+│ 
+│ CTA: [Book a Consultation]                                                   
+│ 
+│ CTA Endpoint: /book-a-consultation                                           
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ WHY OUR SERVICES MATTER SECTION                                              
+│ 
+│                                                                              
+│ 
+│ Layout: Content on left, image on right                                      
+│ 
+│                                                                              
+│ 
+│ Left Content:                                                                
+│ 
+│ H2: Practical Support for Legal, Hiring, and Business Needs                  
+│ 
+│                                                                              
+│ 
+│ Description:                                                                 
+│ 
+│ Many businesses, professionals, law firms, and candidates need support that   
+│ 
+│ is clear, organized, and easy to access. Jurisnexa is designed to simplify    
+│ 
+│ legal service coordination, recruitment assistance, staffing support,         
+│ 
+│ documentation needs, and consultation requests through one professional       
+│ 
+│ platform.                                                                    
+│ 
+│                                                                              
+│ 
+│ This section should build trust and explain that the company helps clients    
+│ 
+│ save time, reduce confusion, organize requirements, and connect with the      
+│ 
+│ right service direction.                                                     
+│ 
+│                                                                              
+│ 
+
+--- PAGE 35 ---
+│ CTA: [Book a Consultation]                                                   
+│ 
+│ CTA Endpoint: /book-a-consultation                                           
+│ 
+│                                                                              
+│ 
+│ Right Image Direction:                                                       
+│ 
+│ Use image showing legal team, HR recruiter, professional client discussion,   
+│ 
+│ and organized documentation workflow.                                        
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ FINAL CTA SECTION                                                            
+│ 
+│                                                                              
+│ 
+│ Layout: Full-width CTA banner                                                
+│ 
+│                                                                              
+│ 
+│ H2: Need Legal Support or Recruitment Assistance?                            
+│ 
+│                                                                              
+│ 
+│ Subheading:                                                                  
+│ 
+│ Book a consultation with Jurisnexa to discuss legal consultation, corporate   
+│ 
+│ legal support, compliance assistance, legal recruitment, staffing 
+solutions,  │ 
+│ candidate placement, employment advisory, or professional consultation 
+needs  │ 
+│ in India.                                                                    
+│                                                                           │ 
+│ CTA Buttons:                                                                 
+│ 
+│ [Book a Consultation]     [Contact Us]                                       
+│                                                                         │ 
+│ CTA Endpoints:                                                               
+│ 
+│ Book a Consultation: /book-a-consultation                                    
+│ 
+│ Contact Us: /contact-us                                                      
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ FOOTER         
+
+--- PAGE 36 ---
+ 
+JURISNEXA.ORG — BLOGS PAGE 
+WIREFRAME 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ HEADER                                                                       
+│ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ BLOGS HERO / BANNER SECTION                                                  
+│ 
+│                                                                              
+│ 
+│ Layout: Text on left, legal/recruitment knowledge image on right              
+│ 
+│                                                                              
+│ 
+│ H1: Legal, Recruitment and Career Insights                                   
+│ 
+│                                                                              
+│ 
+│ Subheading:                                                                  
+│ 
+│ Explore helpful articles from Jurisnexa on legal awareness, business          
+│ 
+│ documentation, compliance support, recruitment trends, legal hiring, 
+staffing │ 
+│ solutions, and career guidance in India.                                     
+│ 
+│                                                                              
+│ 
+│ Supporting Text:                                                             
+│ 
+│ Our blogs are created to help businesses, law firms, HR teams, 
+professionals, │ 
+│ candidates, and job seekers understand important legal, hiring, and 
+workplace │ 
+│ topics in a clear and practical way.                                         
+│ 
+│                                                                              
+│ 
+│ CTA Buttons:                                                                 
+│ 
+│ [Explore Services]     [Book a Consultation]                                 
+│ 
+│                                                                              
+│ 
+
+--- PAGE 37 ---
+│ Right Image Direction:                                                       
+│ 
+│ Use image of legal research, professional writing, recruitment discussion,    
+│ 
+│ legal documents, laptop, books, and business advisory environment.            
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ BLOG INTRODUCTION SECTION                                                    
+│ 
+│                                                                              
+│ 
+│ Layout: Full-width short introduction                                        
+│ 
+│                                                                              
+│ 
+│ H2: Knowledge That Helps You Make Better Decisions                           
+│ 
+│                                                                              
+│ 
+│ Description:                                                                 
+│ 
+│ The Jurisnexa blog is designed to provide practical information for clients   
+│ 
+│ who need legal support, recruitment assistance, staffing guidance, 
+compliance │ 
+│ awareness, employment documentation support, and career direction.            
+│ 
+│                                                                              
+│ 
+│ The blog section should help visitors understand Jurisnexa’s expertise 
+while  │ 
+│ also improving website SEO through useful legal, recruitment, and career      
+│ 
+│ content focused on India.                                                    
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ FEATURED BLOG SECTION                                                        
+│ 
+│                                                                              
+│ 
+│ Layout: Large image on left, featured blog content on right                   
+│ 
+│                                                                              
+│ 
+│ Left Image Direction:                                                        
+│ 
+
+--- PAGE 38 ---
+│ Use image of legal professionals, recruitment meeting, business 
+documentation,│ 
+│ or legal hiring discussion.                                                  
+│ 
+│                                                                              
+│ 
+│ Right Content:                                                               
+│ 
+│ Label: Featured Blog                                                         
+│ 
+│                                                                              
+│ 
+│ H2: Why Legal and Recruitment Support Matters for Growing Businesses in 
+India │ 
+│                                                                              
+│ 
+│ Blog Excerpt:                                                                
+│ 
+│ Businesses today need more than basic hiring or basic documentation. They     
+│ 
+│ need reliable legal guidance, proper compliance awareness, structured 
+hiring  │ 
+│ support, and professional staffing solutions. Jurisnexa helps businesses, 
+law │ 
+│ firms, startups, HR teams, and professionals access both legal and 
+recruitment│ 
+│ support under one platform.                                                  
+│ 
+│                                                                              
+│ 
+│ Blog Category: Legal and Recruitment Insights                                
+│ 
+│ Suggested Date: January 2026                                                 
+│ 
+│ CTA: [Read Blog]                                                             
+│ 
+│ CTA Endpoint: /blogs/legal-recruitment-support-india                         
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ BLOG CATEGORIES SECTION                                                      
+│ 
+│                                                                              
+│ 
+│ Layout: Simple text category row or clean filter tabs                         
+│ 
+│ Do not make heavy cards. Keep it simple and easy to scan.                    
+│ 
+│                                                                              
+│ 
+│ H2: Explore Blog Topics                                                      
+│ 
+
+--- PAGE 39 ---
+│                                                                              
+│ 
+│ Description:                                                                 
+│ 
+│ Visitors should be able to browse blogs by topic depending on whether they    
+│ 
+│ are looking for legal guidance, recruitment information, compliance 
+support,  │ 
+│ employer resources, or career advice.                                        
+│ 
+│                                                                              
+│ 
+│ Categories to Show:                                                          
+│ 
+│ All Blogs | Legal Insights | Recruitment | Compliance | Employment Advisory  
+│ 
+│ | Career Guidance | Business Documentation | Hiring Tips                     
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ MAIN BLOG LIST SECTION                                                       
+│ 
+│                                                                              
+│ 
+│ Layout Direction:                                                            
+│ 
+│ Use a clean blog listing layout. Each blog item should have image on left 
+and │ 
+│ blog title, category, excerpt, date, and Read Blog CTA on right.              
+│ 
+│                                                                              
+│ 
+│ Do not create crowded cards. Keep blog items as horizontal rows with 
+spacing. │ 
+│                                                                              
+│ 
+│ H2: Latest Articles                                                          
+│ 
+│                                                                              
+│ 
+│ BLOG ITEM 1                                                                  
+│ 
+│ Left Image Direction:                                                        
+│ 
+│ Legal documents, contract review, business meeting, or lawyer consultation.  
+│ 
+│                                                                              
+│ 
+│ Right Content:                                                               
+│ 
+│ Category: Legal Insights                                                     
+│ 
+
+--- PAGE 40 ---
+│ Title: Understanding Basic Legal Documentation for Indian Businesses          
+│ 
+│ Excerpt:                                                                     
+│ 
+│ Legal documentation helps businesses operate with clarity and reduce future   
+│ 
+│ confusion. This article explains common documents such as contracts,          
+│ 
+│ agreements, internal policies, offer letters, appointment letters, and 
+basic  │ 
+│ business records.                                                            
+│ 
+│ Date: January 2026                                                           
+│ 
+│ CTA: [Read Blog]                                                             
+│ 
+│ Endpoint: /blogs/basic-legal-documentation-indian-businesses                 
+│ 
+│                                                                              
+│ 
+│ BLOG ITEM 2                                                                  
+│ 
+│ Left Image Direction:                                                        
+│ 
+│ Recruitment interview, HR manager, candidate profile review, or hiring 
+desk. │ 
+│                                                                              
+│ 
+│ Right Content:                                                               
+│ 
+│ Category: Recruitment                                                        
+│ 
+│ Title: How Law Firms Can Hire the Right Legal Talent in India                 
+│ 
+│ Excerpt:                                                                     
+│ 
+│ Hiring legal professionals requires more than reviewing resumes. Law firms    
+│ 
+│ need to assess legal knowledge, communication skills, drafting ability,        
+│ 
+│ professional ethics, and long-term role suitability.                          
+│ 
+│ Date: January 2026                                                           
+│ 
+│ CTA: [Read Blog]                                                             
+│ 
+│ Endpoint: /blogs/law-firm-legal-hiring-india                                 
+│ 
+│                                                                              
+│ 
+│ BLOG ITEM 3                                                                  
+│ 
+│ Left Image Direction:                                                        
+│ 
+│ Compliance checklist, workplace documents, business policies, or HR files.   
+│ 
+
+--- PAGE 41 ---
+│                                                                              
+│ 
+│ Right Content:                                                               
+│ 
+│ Category: Compliance                                                         
+│ 
+│ Title: Why Compliance Awareness Is Important for Startups and SMEs            
+│ 
+│ Excerpt:                                                                     
+│ 
+│ Startups and small businesses often focus on growth but overlook 
+compliance,  │ 
+│ documentation, workplace policies, and employment processes. A structured     
+│ 
+│ approach helps businesses stay organized and reduce avoidable risks.          
+│ 
+│ Date: February 2026                                                          
+│ 
+│ CTA: [Read Blog]                                                             
+│ 
+│ Endpoint: /blogs/compliance-awareness-startups-smes-india                    
+│ 
+│                                                                              
+│ 
+│ BLOG ITEM 4                                                                  
+│ 
+│ Left Image Direction:                                                        
+│ 
+│ Candidate preparing resume, interview coaching, career discussion, or 
+laptop.│ 
+│                                                                              
+│ 
+│ Right Content:                                                               
+│ 
+│ Category: Career Guidance                                                    
+│ 
+│ Title: Career Tips for Legal and Compliance Professionals in India            
+│ 
+│ Excerpt:                                                                     
+│ 
+│ Legal and compliance professionals can improve career opportunities by        
+│ 
+│ strengthening drafting skills, research ability, communication, practical     
+│ 
+│ business understanding, and interview preparation.                            
+│ 
+│ Date: February 2026                                                          
+│ 
+│ CTA: [Read Blog]                                                             
+│ 
+│ Endpoint: /blogs/legal-compliance-career-tips-india                          
+│ 
+│                                                                              
+│ 
+│ BLOG ITEM 5                                                                  
+│ 
+
+--- PAGE 42 ---
+│ Left Image Direction:                                                        
+│ 
+│ HR documentation, employment contract, offer letter, or workplace policy.     
+│ 
+│                                                                              
+│ 
+│ Right Content:                                                               
+│ 
+│ Category: Employment Advisory                                                
+│ 
+│ Title: Important Employment Documents Every Business Should Organize          
+│ 
+│ Excerpt:                                                                     
+│ 
+│ Employment documents such as offer letters, appointment letters, policies,    
+│ 
+│ role descriptions, confidentiality terms, and employee records help create 
+a  │ 
+│ more organized workplace.                                                    
+│ 
+│ Date: March 2026                                                             
+│ 
+│ CTA: [Read Blog]                                                             
+│ 
+│ Endpoint: /blogs/important-employment-documents-india                        
+│ 
+│                                                                              
+│ 
+│ BLOG ITEM 6                                                                  
+│ 
+│ Left Image Direction:                                                        
+│ 
+│ Employer reviewing resumes, interview shortlist, recruitment dashboard.      
+│ 
+│                                                                              
+│ 
+│ Right Content:                                                               
+│ 
+│ Category: Hiring Tips                                                        
+│ 
+│ Title: How Employers Can Shortlist Better Candidates                         
+│ 
+│ Excerpt:                                                                     
+│ 
+│ A good shortlisting process saves time and improves hiring quality. 
+Employers │ 
+│ should define role requirements clearly, screen for relevant experience,      
+│ 
+│ review communication ability, and align candidates with the company’s 
+needs.  │ 
+│ Date: March 2026                                                             
+│ 
+│ CTA: [Read Blog]                                                             
+│ 
+│ Endpoint: /blogs/shortlist-better-candidates-india                           
+│ 
+
+--- PAGE 43 ---
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ BLOG KNOWLEDGE AREAS SECTION                                                 
+│ 
+│                                                                              
+│ 
+│ Layout: Content on left, image on right                                      
+│ 
+│                                                                              
+│ 
+│ Left Content:                                                                
+│ 
+│ H2: Topics We Cover                                                          
+│ 
+│                                                                              
+│ 
+│ Description:                                                                 
+│ 
+│ Jurisnexa blogs should be written to educate visitors, build trust, and       
+│ 
+│ support SEO for legal, recruitment, compliance, hiring, staffing, and 
+career  │ 
+│ search terms in India.                                                       
+│ 
+│                                                                              
+│ 
+│ Blog Topic Areas:                                                            
+│ 
+│ - Legal consultation and legal awareness                                     
+│ 
+│ - Corporate legal support and documentation                                  
+│ 
+│ - Compliance and workplace policy guidance                                   
+│ 
+│ - Legal recruitment and law firm hiring                                      
+│ 
+│ - Staffing and HR recruitment tips                                           
+│ 
+│ - Candidate placement and career preparation                                 
+│ 
+│ - Employment advisory and HR documentation                                   
+│ 
+│ - Business documentation and professional consultation                        
+│ 
+│                                                                              
+│ 
+│ CTA: [Explore Services]                                                      
+│ 
+│ CTA Endpoint: /our-services                                                  
+│ 
+│                                                                              
+│ 
+
+--- PAGE 44 ---
+│ Right Image Direction:                                                       
+│ 
+│ Use image of legal research, blog articles, compliance checklist, HR 
+hiring,  │ 
+│ and professional career planning.                                            
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ BLOG CTA SECTION                                                             
+│ 
+│                                                                              
+│ 
+│ Layout: Full-width CTA banner                                                
+│ 
+│                                                                              
+│ 
+│ H2: Need Guidance Beyond the Blog?                                           
+│ 
+│                                                                              
+│ 
+│ Subheading:                                                                  
+│ 
+│ If you need legal support, recruitment assistance, compliance guidance,       
+│ 
+│ staffing support, candidate placement, or professional consultation, 
+connect  │ 
+│ with Jurisnexa for the next step.                                            
+│ 
+│                                                                              
+│ 
+│ CTA Buttons:                                                                 
+│ 
+│ [Book a Consultation]     [Contact Us]                                       
+│ 
+│                                                                              
+│ 
+│ CTA Endpoints:                                                               
+│ 
+│ Book a Consultation: /book-a-consultation                                    
+│ 
+│ Contact Us: /contact-us                                                      
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ FOOTER                                                                       
+│ 
+ 
+ 
+
+--- PAGE 45 ---
+ 
+JURISNEXA.ORG — CONTACT US PAGE 
+WIREFRAME 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ HEADER                                                                       
+│ 
+│                                                                              
+│ 
+│ [JURISNEXA LOGO]                                                             
+│ 
+│                                                                              
+│ 
+│ Home     About Us     Our Services     Blogs     Contact Us     [Book a 
+Consultation] │ 
+│                                                                              
+│ 
+│ Notes:                                                                       
+│ 
+│ - Contact Us should show active menu state                                   
+│ 
+│ - Book a Consultation remains the main CTA                                   
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ CONTACT HERO / BANNER                                                        
+│ 
+│                                                                              
+│ 
+│ Layout: Content on left, image on right                                      
+│ 
+│                                                                              
+│ 
+│ H1: Contact Jurisnexa                                                        
+│ 
+│                                                                              
+│ 
+│ Subheading:                                                                  
+│ 
+│ Get in touch with Jurisnexa for legal support, recruitment assistance,        
+│ 
+│ staffing solutions, candidate placement, and professional consultation in     
+│ 
+│ India.                                                                       
+│ 
+
+--- PAGE 46 ---
+│                                                                              
+│ 
+│ Short Text:                                                                  
+│ 
+│ Whether you are a business, law firm, employer, professional, or job 
+seeker,  │ 
+│ our team can guide you toward the right legal or recruitment solution.        
+│ 
+│                                                                              
+│ 
+│ CTA Buttons:                                                                 
+│ 
+│ [Book a Consultation]     [Explore Services]                                 
+│ 
+│                                                                              
+│ 
+│ Image Direction:                                                             
+│ 
+│ Use a professional image of legal consultation, recruitment meeting, office   
+│ 
+│ discussion, or client support.                                               
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ MAIN CONTACT SECTION                                                         
+│ 
+│                                                                              
+│ 
+│ Layout: Contact form on left, contact details on right                       
+│ 
+│                                                                              
+│ 
+│ LEFT SIDE — CONTACT FORM                                                     
+│ 
+│                                                                              
+│ 
+│ H2: Send Us a Message                                                        
+│ 
+│                                                                              
+│ 
+│ Form Fields:                                                                 
+│ 
+│ - Full Name                                                                  
+│ 
+│ - Email Address                                                              
+│ 
+│ - Phone Number                                                               
+│ 
+│ - City / Location                                                            
+│ 
+│ - Inquiry Type                                                               
+│ 
+
+--- PAGE 47 ---
+│                                                                              
+│ 
+│ Inquiry Type Options:                                                        
+│ 
+│ - Legal Consultation                                                         
+│ 
+│ - Corporate Legal Support                                                    
+│ 
+│ - Compliance Assistance                                                      
+│ 
+│ - Legal Recruitment                                                          
+│ 
+│ - Staffing Solutions                                                         
+│ 
+│ - Candidate Placement                                                        
+│ 
+│ - Employment Advisory                                                        
+│ 
+│ - General Inquiry                                                            
+│ 
+│                                                                              
+│ 
+│ Message Box:                                                                 
+│ 
+│ Tell us how we can help you.                                                 
+│ 
+│                                                                              
+│ 
+│ Submit Button:                                                               
+│ 
+│ [Submit Message]                                                             
+│ 
+│                                                                              
+│ 
+│ Success Message After Submission:                                            
+│ 
+│ Thank you for contacting Jurisnexa. Our team will get back to you shortly.   
+│ 
+│                                                                              
+│ 
+│ RIGHT SIDE — CONTACT DETAILS                                                 
+│ 
+│                                                                              
+│ 
+│ H2: Get in Touch                                                             
+│ 
+│                                                                              
+│ 
+│ Email: info@jurisnexa.org                                                    
+│ 
+│ Location: India                                                              
+│ 
+│ Website: www.jurisnexa.org                                                   
+│ 
+│                                                                              
+│ 
+
+--- PAGE 48 ---
+│ Short Trust Text:                                                            
+│ 
+│ Jurisnexa supports clients with legal consultation, recruitment assistance,   
+│ 
+│ staffing solutions, candidate placement, compliance guidance, and             
+│ 
+│ professional advisory services across India.                                 
+│ 
+│                                                                              
+│ 
+│ CTA: [Book a Consultation]                                                   
+│ 
+│ Endpoint: /book-a-consultation                                               
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ QUICK HELP SECTION                                                           
+│ 
+│                                                                              
+│ 
+│ Layout: Short full-width section                                             
+│ 
+│                                                                              
+│ 
+│ H2: How Can We Help?                                                         
+│ 
+│                                                                              
+│ 
+│ Text:                                                                        
+│ 
+│ Contact Jurisnexa if you need legal guidance, documentation support,          
+│ 
+│ corporate legal assistance, legal hiring, staffing support, job placement,    
+│ 
+│ employment advisory, or professional consultation.                            
+│ 
+│                                                                              
+│ 
+│ CTA Buttons:                                                                 
+│ 
+│ [Explore Services]     [Book a Consultation]                                 
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ FOOTER                                                                       
+│ 
+ 
+ 
+ 
+
+--- PAGE 49 ---
+JURISNEXA.ORG — BOOK A 
+CONSULTATION PAGE WIREFRAME 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ HEADER                                                                       
+│ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ CONSULTATION HERO / BANNER                                                   
+│ 
+│                                                                              
+│ 
+│ Layout: Content on left, consultation image on right                          
+│ 
+│                                                                              
+│ 
+│ H1: Book a Consultation With Jurisnexa                                       
+│ 
+│                                                                              
+│ 
+│ Subheading:                                                                  
+│ 
+│ Schedule a consultation for legal guidance, recruitment support, staffing     
+│ 
+│ solutions, compliance assistance, candidate placement, or professional        
+│ 
+│ advisory services in India.                                                  
+│ 
+│                                                                              
+│ 
+│ Short Text:                                                                  
+│ 
+│ Tell us what kind of support you need and our team will help guide you 
+toward │ 
+│ the right service direction.                                                 
+│ 
+│                                                                              
+│ 
+│ CTA Buttons:                                                                 
+│ 
+│ [Book Consultation Below]     [Explore Services]                             
+│ 
+│                                                                              
+│ 
+│ Image Direction:                                                             
+│ 
+│ Use a professional image of legal consultation, recruitment discussion,       
+│ 
+
+--- PAGE 50 ---
+│ business advisory meeting, documents, or office consultation.                 
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ MAIN CONSULTATION BOOKING SECTION                                            
+│ 
+│                                                                              
+│ 
+│ Layout: Booking form on left, consultation details on right                   
+│ 
+│                                                                              
+│ 
+│ LEFT SIDE — CONSULTATION FORM                                                
+│ 
+│                                                                              
+│ 
+│ H2: Request a Consultation                                                   
+│ 
+│                                                                              
+│ 
+│ Short Description:                                                           
+│ 
+│ Fill out the form below and Jurisnexa will contact you to confirm the next    
+│ 
+│ step for your consultation request.                                          
+│ 
+│                                                                              
+│ 
+│ Form Fields:                                                                 
+│ 
+│ - Full Name                                                                  
+│ 
+│ - Email Address                                                              
+│ 
+│ - Phone Number                                                               
+│ 
+│ - City / Location                                                            
+│ 
+│ - I Am A                                                                     
+│ 
+│                                                                              
+│ 
+│ I Am A Options:                                                              
+│ 
+│ - Business Owner                                                             
+│ 
+│ - Law Firm Representative                                                    
+│ 
+│ - HR / Hiring Manager                                                        
+│ 
+│ - Job Seeker / Candidate                                                     
+│ 
+
+--- PAGE 51 ---
+│ - Legal Professional                                                         
+│ 
+│ - Individual Client                                                          
+│ 
+│ - Other                                                                      
+│ 
+│                                                                              
+│ 
+│ Consultation Type Dropdown:                                                  
+│ 
+│ - Legal Consultation                                                         
+│ 
+│ - Corporate Legal Support                                                    
+│ 
+│ - Compliance Assistance                                                      
+│ 
+│ - Legal Recruitment                                                          
+│ 
+│ - Staffing Solutions                                                         
+│ 
+│ - Candidate Placement                                                        
+│ 
+│ - Employment Advisory                                                        
+│ 
+│ - Professional Consultation                                                  
+│ 
+│ - Not Sure / Need Guidance                                                   
+│ 
+│                                                                              
+│ 
+│ Preferred Contact Method:                                                    
+│ 
+│ - Phone Call                                                                 
+│ 
+│ - Email                                                                      
+│ 
+│ - Online Meeting                                                             
+│ 
+│                                                                              
+│ 
+│ Preferred Date / Time:                                                       
+│ 
+│ - Date Picker                                                                
+│ 
+│ - Time Preference                                                            
+│ 
+│                                                                              
+│ 
+│ Message Box:                                                                 
+│ 
+│ Briefly describe what you need help with.                                    
+│ 
+│                                                                              
+│ 
+│ Submit Button:                                                               
+│ 
+
+--- PAGE 52 ---
+│ [Submit Consultation Request]                                                
+│ 
+│                                                                              
+│ 
+│ Success Message After Submission:                                            
+│ 
+│ Thank you for requesting a consultation. The Jurisnexa team will contact 
+you  │ 
+│ shortly to confirm the next step.                                            
+│ 
+│                                                                              
+│ 
+│ RIGHT SIDE — CONSULTATION INFO                                               
+│ 
+│                                                                              
+│ 
+│ H2: What You Can Discuss                                                     
+│ 
+│                                                                              
+│ 
+│ Text:                                                                        
+│ 
+│ You can book a consultation for legal guidance, business documentation,       
+│ 
+│ compliance assistance, legal hiring, staffing support, candidate placement,   
+│ 
+│ employment advisory, or general professional support.                        
+│ 
+│                                                                              
+│ 
+│ Quick Points:                                                                
+│ 
+│ - Legal and corporate support                                                
+│ 
+│ - Recruitment and staffing guidance                                          
+│ 
+│ - Candidate placement support                                                
+│ 
+│ - Compliance and documentation help                                          
+│ 
+│ - Employment and business advisory                                           
+│ 
+│                                                                              
+│ 
+│ CTA: [Explore Services]                                                      
+│ 
+│ Endpoint: /our-services                                                      
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ HOW IT WORKS SECTION                                                         
+│ 
+
+--- PAGE 53 ---
+│                                                                              
+│ 
+│ Layout: Simple 3-step process                                                
+│ 
+│                                                                              
+│ 
+│ H2: How the Consultation Process Works                                       
+│ 
+│                                                                              
+│ 
+│ Step 1: Submit Your Request                                                  
+│ 
+│ Share your details, consultation type, preferred contact method, and 
+message. │ 
+│                                                                              
+│ 
+│ Step 2: We Review Your Requirement                                           
+│ 
+│ Jurisnexa reviews your legal, recruitment, staffing, or advisory 
+requirement.│ 
+│                                                                              
+│ 
+│ Step 3: We Contact You                                                       
+│ 
+│ Our team follows up to confirm your consultation and guide you on the next    
+│ 
+│ steps.                                                                       
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ FINAL CTA SECTION                                                            
+│ 
+│                                                                              
+│ 
+│ Layout: Full-width CTA banner                                                
+│ 
+│                                                                              
+│ 
+│ H2: Ready to Speak With Jurisnexa?                                           
+│ 
+│                                                                              
+│ 
+│ Subheading:                                                                  
+│ 
+│ Book a consultation today for legal support, recruitment assistance, 
+staffing │ 
+│ solutions, candidate placement, compliance guidance, or professional 
+advisory │ 
+│ services in India.                                                           
+│ 
+│                                                                              
+│ 
+
+--- PAGE 54 ---
+│ CTA Buttons:                                                                 
+│ 
+│ [Submit Consultation Request]     [Contact Us]                               
+│ 
+│                                                                              
+│ 
+│ CTA Endpoints:                                                               
+│ 
+│ Submit Consultation Request: Form submission                                 
+│ 
+│ Contact Us: /contact-us                                                      
+│ 
+└────────────────────────────────────────────────────────────────────────────
+──┘ 
+ 
+ 
+┌────────────────────────────────────────────────────────────────────────────
+──┐ 
+│ FOOTER                                                                       
+│ 
+ 
+ 
+
