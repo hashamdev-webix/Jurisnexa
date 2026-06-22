@@ -45,13 +45,24 @@ export function CTAButtonLight({ to, children, variant = "primary" }) {
   );
 }
 
-export function FinalCTA({ title, subtitle, primaryLabel, primaryTo, secondaryLabel, secondaryTo }) {
+export function FinalCTA({
+  title,
+  subtitle,
+  primaryLabel,
+  primaryTo,
+  secondaryLabel,
+  secondaryTo,
+}) {
   return (
     <section className="bg-navy py-14 text-white">
       <div className="mx-auto max-w-4xl px-4 text-center sm:px-6">
-        <h2 className="text-3xl font-bold leading-tight sm:text-4xl">{title}</h2>
-        <p className="mx-auto mt-5 max-w-2xl text-lg text-white/80">{subtitle}</p>
-        <div className="mt-8 flex flex-wrap justify-center gap-4">
+        <h2 className="text-3xl font-bold leading-tight sm:text-4xl">
+          {title}
+        </h2>
+        <p className="mx-auto mt-5 max-w-2xl text-lg text-white/80">
+          {subtitle}
+        </p>
+        <div className="mt-8 flex flex-wrap justify-center gap-3">
           <CTAButtonLight to={primaryTo}>{primaryLabel}</CTAButtonLight>
           <CTAButtonLight to={secondaryTo} variant="outline">
             {secondaryLabel}
@@ -71,7 +82,9 @@ export function HeroBanner({
   dark = false,
 }) {
   return (
-    <section className={`py-12 lg:py-14 ${dark ? "bg-navy text-white" : "bg-slate-100"}`}>
+    <section
+      className={`py-12 lg:py-14 ${dark ? "bg-navy text-white" : "bg-slate-100"}`}
+    >
       <div className="mx-auto grid max-w-7xl items-stretch gap-10 px-4 sm:px-6 lg:grid-cols-2 lg:px-8">
         <div className="flex min-h-[360px] flex-col justify-center">
           <h1 className="text-3xl font-bold leading-tight sm:text-4xl lg:text-5xl">
@@ -138,7 +151,9 @@ export function ImageTextSection({
 }) {
   const content = (
     <div className="flex flex-col justify-center rounded-lg bg-white p-6 shadow-sm ring-1 ring-slate-200/70 sm:p-7 lg:p-8">
-      <h2 className="text-2xl font-bold leading-tight text-navy sm:text-3xl">{title}</h2>
+      <h2 className="text-2xl font-bold leading-tight text-navy sm:text-3xl">
+        {title}
+      </h2>
       {description && (
         <p className="mt-4 leading-relaxed text-slate-muted">{description}</p>
       )}
@@ -163,7 +178,11 @@ export function ImageTextSection({
 
   const imageBlock = (
     <div className="overflow-hidden rounded-lg shadow-xl">
-      <img src={image} alt="" className="h-64 w-full object-cover sm:h-72 lg:h-80" />
+      <img
+        src={image}
+        alt=""
+        className="h-64 w-full object-cover sm:h-72 lg:h-80"
+      />
     </div>
   );
 
@@ -223,7 +242,10 @@ export function BenefitBlocks({ title, description, benefits, cta }) {
         </div>
         <div className="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
           {benefits.map((b) => (
-            <div key={b.title} className="h-full border-l-4 border-gold bg-white p-5 shadow-sm">
+            <div
+              key={b.title}
+              className="h-full border-l-4 border-gold bg-white p-5 shadow-sm"
+            >
               <h3 className="text-lg font-semibold text-navy">{b.title}</h3>
               <p className="mt-3 leading-relaxed text-slate-muted">
                 {b.description}
@@ -253,7 +275,10 @@ export function ValueBlocks({ title, description, values }) {
         </div>
         <div className="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {values.map((v) => (
-            <div key={v.title} className="h-full rounded-lg bg-slate-50 p-6 shadow-sm ring-1 ring-slate-200/70">
+            <div
+              key={v.title}
+              className="h-full rounded-lg bg-slate-50 p-6 shadow-sm ring-1 ring-slate-200/70"
+            >
               <h3 className="text-lg font-semibold text-navy">{v.title}</h3>
               <p className="mt-3 leading-relaxed text-slate-muted">
                 {v.description}
