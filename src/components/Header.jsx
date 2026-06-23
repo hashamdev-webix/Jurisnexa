@@ -15,7 +15,7 @@ export default function Header() {
 
   return (
     <header className="sticky top-0 z-50 bg-navy text-white shadow-xl shadow-navy/20">
-      <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-4 sm:px-6 lg:px-8">
+      <div className="mx-auto flex max-w-screen-2xl items-center justify-between px-4 py-4 sm:px-6 lg:px-8">
         <Link
           to="/"
           className="flex items-center gap-3"
@@ -24,7 +24,7 @@ export default function Header() {
           <img
             src="/logo.PNG"
             alt="Jurisnexa Logo"
-            className="h-16 w-auto rounded-sm object-contain sm:h-24"
+            className="h-20 w-auto rounded-sm object-contain sm:h-32 lg:h-36"
           />
         </Link>
 

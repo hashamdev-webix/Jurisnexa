@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { HeroBanner, ImageTextSection, FinalCTA } from "../components/Sections";
 import BlogListItem from "../components/BlogListItem";
 import { blogs, blogCategories } from "../data/blogs";
@@ -17,7 +17,7 @@ const topicAreas = [
 
 export default function Blogs() {
   const [activeCategory, setActiveCategory] = useState("All Blogs");
-
+  const navigate = useNavigate();
   const featured = blogs.find((b) => b.featured);
   const listBlogs = blogs.filter((b) => !b.featured);
 
@@ -47,8 +47,8 @@ export default function Blogs() {
           <p className="mt-4 text-slate-muted">
             The Jurisnexa blog is designed to provide practical information for
             clients who need legal support, recruitment assistance, staffing
-            guidance, compliance awareness, employment documentation support, and
-            career direction. The blog section helps visitors understand
+            guidance, compliance awareness, employment documentation support,
+            and career direction. The blog section helps visitors understand
             Jurisnexa's expertise while improving website SEO through useful
             legal, recruitment, and career content focused on India.
           </p>
@@ -57,7 +57,7 @@ export default function Blogs() {
 
       {featured && (
         <section className="bg-slate-50 py-14">
-          <div className="mx-auto grid max-w-7xl items-center gap-8 px-4 sm:px-6 lg:grid-cols-2 lg:px-8">
+          <div className="mx-auto grid max-w-screen-2xl items-center gap-8 px-4 sm:px-6 lg:grid-cols-2 lg:px-8">
             <div className="overflow-hidden rounded-lg shadow-xl">
               <img
                 src={featured.image}
@@ -78,19 +78,28 @@ export default function Blogs() {
               <p className="mt-3 text-base text-slate-muted">
                 {featured.category} / {featured.date}
               </p>
-              <Link
-                to={`/blogs/${featured.slug}`}
+              <p
+                onClick={() => {
+                  navigate(`/blogs/${featured.slug}`);
+
+                  setTimeout(() => {
+                    window.scrollTo({
+                      top: 0,
+                      behavior: "instant",
+                    });
+                  }, 100);
+                }}
                 className="mt-7 inline-block rounded-md bg-gold px-7 py-3 text-base font-bold text-navy hover:bg-gold-light"
               >
                 Read Blog
-              </Link>
+              </p>
             </div>
           </div>
         </section>
       )}
 
       <section className="py-12">
-        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div className="mx-auto max-w-screen-2xl px-4 sm:px-6 lg:px-8">
           <h2 className="text-2xl font-bold text-navy">Explore Blog Topics</h2>
           <p className="mt-2 text-base text-slate-muted">
             Browse blogs by topic depending on whether you are looking for legal
@@ -117,12 +126,14 @@ export default function Blogs() {
       </section>
 
       <section className="pb-16">
-        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div className="mx-auto max-w-screen-2xl px-4 sm:px-6 lg:px-8">
           <h2 className="mb-6 text-2xl font-bold text-navy">Latest Articles</h2>
           {filtered.length > 0 ? (
             filtered.map((blog) => <BlogListItem key={blog.slug} blog={blog} />)
           ) : (
-            <p className="text-slate-muted">No articles in this category yet.</p>
+            <p className="text-slate-muted">
+              No articles in this category yet.
+            </p>
           )}
         </div>
       </section>

@@ -11,21 +11,29 @@ export default function ContactUs() {
         image="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=85"
         ctas={[
           { label: "Book a Consultation", to: "/book-a-consultation" },
-          { label: "Explore Services", to: "/our-services", variant: "outline" },
+          {
+            label: "Explore Services",
+            to: "/our-services",
+            variant: "outline",
+          },
         ]}
       />
 
       <section className="bg-white py-14">
-        <div className="mx-auto grid max-w-7xl gap-12 px-4 sm:px-6 lg:grid-cols-2 lg:px-8">
+        <div className="mx-auto grid max-w-screen-2xl gap-12 px-4 sm:px-6 lg:grid-cols-2 lg:px-8">
           <div>
-            <h2 className="text-2xl font-bold text-navy sm:text-3xl">Send Us a Message</h2>
+            <h2 className="text-2xl font-bold text-navy sm:text-3xl">
+              Send Us a Message
+            </h2>
             <div className="mt-6">
               <ContactForm />
             </div>
           </div>
 
           <div>
-            <h2 className="text-2xl font-bold text-navy sm:text-3xl">Get in Touch</h2>
+            <h2 className="text-2xl font-bold text-navy sm:text-3xl">
+              Get in Touch
+            </h2>
             <ul className="mt-6 space-y-4 text-slate-muted">
               <li>
                 <span className="font-semibold text-navy">Email:</span>{" "}
@@ -49,7 +57,9 @@ export default function ContactUs() {
               guidance, and professional advisory services across India.
             </p>
             <div className="mt-6">
-              <CTAButton to="/book-a-consultation">Book a Consultation</CTAButton>
+              <CTAButton to="/book-a-consultation">
+                Book a Consultation
+              </CTAButton>
             </div>
           </div>
         </div>
@@ -57,7 +67,9 @@ export default function ContactUs() {
 
       <section className="bg-slate-50 py-14">
         <div className="mx-auto max-w-3xl px-4 text-center sm:px-6 lg:px-8">
-          <h2 className="text-2xl font-bold text-navy sm:text-3xl">How Can We Help?</h2>
+          <h2 className="text-2xl font-bold text-navy sm:text-3xl">
+            How Can We Help?
+          </h2>
           <p className="mt-4 text-slate-muted">
             Contact Jurisnexa if you need legal guidance, documentation support,
             corporate legal assistance, legal hiring, staffing support, job

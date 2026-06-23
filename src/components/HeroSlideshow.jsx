@@ -59,7 +59,7 @@ export default function HeroSlideshow() {
   return (
     <section className="relative overflow-hidden bg-navy text-white">
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(201,162,39,0.2),transparent_34%)]" />
-      <div className="relative mx-auto grid max-w-7xl items-stretch gap-10 px-4 py-12 sm:px-6 lg:grid-cols-2 lg:px-8 lg:py-14">
+      <div className="relative mx-auto grid max-w-screen-2xl items-stretch gap-10 px-4 py-12 sm:px-6 lg:grid-cols-2 lg:px-8 lg:py-14">
         <div className="flex min-h-[390px] flex-col justify-center">
           <h1 className="text-3xl font-bold leading-tight sm:text-4xl lg:text-5xl">
             {slide.title}
@@ -99,7 +99,9 @@ export default function HeroSlideshow() {
       <div className="absolute bottom-6 left-1/2 flex -translate-x-1/2 items-center gap-4">
         <button
           type="button"
-          onClick={() => setCurrent((c) => (c - 1 + slides.length) % slides.length)}
+          onClick={() =>
+            setCurrent((c) => (c - 1 + slides.length) % slides.length)
+          }
           className="rounded-full bg-white/10 p-2 hover:bg-white/20"
           aria-label="Previous slide"
         >

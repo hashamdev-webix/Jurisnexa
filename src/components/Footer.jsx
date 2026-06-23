@@ -24,13 +24,13 @@ const serviceLinks = [
 export default function Footer() {
   return (
     <footer className="border-t-4 border-gold bg-navy text-white">
-      <div className="mx-auto max-w-7xl px-4 py-14 sm:px-6 lg:px-8">
+      <div className="mx-auto max-w-screen-2xl px-4 py-14 sm:px-6 lg:px-8">
         <div className="grid gap-10 md:grid-cols-2 lg:grid-cols-4">
           <div className="lg:col-span-1">
             <img
               src="/logo.PNG"
               alt="Jurisnexa Logo"
-              className="mb-5 h-20 w-auto rounded-sm object-contain"
+              className="h-20 w-auto rounded-sm object-contain sm:h-32 lg:h-36"
             />
             <p className="leading-relaxed text-white/75">
               Jurisnexa is a law and recruitment agency in India offering legal

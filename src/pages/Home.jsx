@@ -79,7 +79,7 @@ export default function Home() {
       />
 
       <section className="bg-white py-14">
-        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div className="mx-auto max-w-screen-2xl px-4 sm:px-6 lg:px-8">
           <div className="mx-auto max-w-3xl text-center">
             <h2 className="text-2xl font-bold text-navy sm:text-3xl">
               What Jurisnexa Offers
