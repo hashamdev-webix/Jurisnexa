@@ -73,7 +73,7 @@ export default function Home() {
       <ImageTextSection
         title="Your Trusted Partner for Legal and Recruitment Support"
         description="Jurisnexa is a professional law and recruitment agency in India created to support businesses, law firms, professionals, and job seekers with reliable legal guidance and hiring solutions. We bring legal service support and recruitment assistance together under one platform so clients can access consultation, documentation support, compliance guidance, legal hiring, staffing solutions, and candidate placement services with confidence."
-        image="https://images.unsplash.com/photo-1556761175-4b46a572b786?auto=format&fit=crop&w=900&q=85"
+        image="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&w=900&q=85"
         imageLeft
         cta={{ label: "Explore Services", to: "/our-services" }}
       />
@@ -85,8 +85,9 @@ export default function Home() {
               What Jurisnexa Offers
             </h2>
             <p className="mt-4 text-slate-muted">
-              Jurisnexa provides a balanced range of legal, recruitment, staffing,
-              and professional support services for clients across India.
+              Jurisnexa provides a balanced range of legal, recruitment,
+              staffing, and professional support services for clients across
+              India.
             </p>
           </div>
           <div className="mt-10 space-y-6">
@@ -95,7 +96,9 @@ export default function Home() {
                 key={service.title}
                 className="border-l-4 border-gold bg-slate-50 p-6 shadow-sm"
               >
-                <h3 className="text-xl font-semibold text-navy">{service.title}</h3>
+                <h3 className="text-xl font-semibold text-navy">
+                  {service.title}
+                </h3>
                 <p className="mt-2 leading-relaxed text-slate-muted">
                   {service.description}
                 </p>
@@ -111,7 +114,7 @@ export default function Home() {
       <ImageTextSection
         title="Legal Support Designed for Businesses and Professionals"
         description="Jurisnexa helps clients understand and manage legal requirements through professional consultation, documentation support, contract assistance, business legal guidance, compliance coordination, and employment-related documentation support. We support clients with practical legal guidance, not complicated legal language - building trust for businesses, startups, professionals, and individuals who need structured legal support."
-        image="https://images.unsplash.com/photo-1505664194779-8beaceb93744?auto=format&fit=crop&w=900&q=85"
+        image="https://images.unsplash.com/photo-1672380135241-c024f7fbfa13?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bGVnYWwlMjBzdXBwb3J0JTIwYnVzaW5lc3N8ZW58MHx8MHx8fDA%3D"
         imageLeft={false}
         bullets={[
           "Legal consultation",
@@ -127,7 +130,7 @@ export default function Home() {
       <ImageTextSection
         title="Recruitment and Staffing Solutions for Growing Teams"
         description="Jurisnexa supports employers with recruitment services for legal, compliance, administrative, HR, and professional roles. We help businesses and law firms identify suitable candidates, simplify hiring, and reduce the time spent on screening and shortlisting. Our recruitment service is designed for law firms, companies, startups, consultancies, corporate legal teams, and organizations that need reliable talent support."
-        image="https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=900&q=85"
+        image="https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=900&q=85"
         imageLeft
         bullets={[
           "Legal hiring",
@@ -143,7 +146,7 @@ export default function Home() {
       <ImageTextSection
         title="Who We Help"
         description="Jurisnexa works with clients who need dependable legal, recruitment, and professional support services in India."
-        image="https://images.unsplash.com/photo-1521791055366-0d553872125f?auto=format&fit=crop&w=900&q=85"
+        image="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=900&q=85"
         imageLeft={false}
         bullets={whoWeHelp}
         cta={{ label: "Explore Services", to: "/our-services" }}

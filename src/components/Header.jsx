@@ -22,7 +22,7 @@ export default function Header() {
           onClick={() => setOpen(false)}
         >
           <img
-            src="/logo.jpeg"
+            src="/logo.PNG"
             alt="Jurisnexa Logo"
             className="h-16 w-auto rounded-sm object-contain sm:h-24"
           />

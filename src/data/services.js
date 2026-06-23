@@ -6,7 +6,7 @@ export const services = [
     details:
       "Legal consultation may include general legal guidance, document review support, business-related legal questions, employment-related concerns, contract discussion, and advisory support for professional or business needs.",
     image:
-      "https://images.unsplash.com/photo-1505664194779-8beaceb93744?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1551135049-8a33b5883817?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fExlZ2FsJTIwQ29uc3VsdGF0aW9uJTIwaW1hZ2VzfGVufDB8fDB8fHww",
   },
   {
     title: "Corporate Legal Support",
@@ -15,7 +15,7 @@ export const services = [
     details:
       "Corporate legal support may include contract assistance, agreement review coordination, business documentation support, policy documentation, workplace documentation, and general corporate advisory support.",
     image:
-      "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1695388474402-ed805a890d8d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fENvcnBvcmF0ZSUyMExlZ2FsJTIwU3VwcG9ydHxlbnwwfHwwfHx8MA%3D%3D",
   },
   {
     title: "Compliance and Documentation Assistance",
@@ -24,7 +24,7 @@ export const services = [
     details:
       "Services may include assistance with employment documents, appointment letters, offer letters, internal policy drafts, documentation checklists, business paperwork, process-based compliance support, and document review coordination.",
     image:
-      "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1554224154-26032ffc0d07?auto=format&fit=crop&w=900&q=85",
   },
   {
     title: "Legal Recruitment",
@@ -33,7 +33,7 @@ export const services = [
     details:
       "Legal recruitment may include hiring support for legal associates, lawyers, paralegals, legal assistants, documentation executives, compliance officers, contract professionals, and corporate legal team members.",
     image:
-      "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=900&q=85",
   },
   {
     title: "Staffing and HR Recruitment",
@@ -42,7 +42,7 @@ export const services = [
     details:
       "Staffing and HR recruitment support may include requirement discussion, role understanding, candidate sourcing support, shortlisting, interview coordination, and hiring process assistance for professional roles.",
     image:
-      "https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=900&q=85",
   },
   {
     title: "Candidate Placement Support",
@@ -51,7 +51,7 @@ export const services = [
     details:
       "Candidate placement support may include profile review, opportunity matching, interview coordination, career guidance, legal job placement support, and professional hiring communication.",
     image:
-      "https://images.unsplash.com/photo-1521791055366-0d553872125f?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=900&q=85",
   },
   {
     title: "Employment and Business Advisory",
@@ -60,7 +60,7 @@ export const services = [
     details:
       "This service is useful for clients who want practical guidance on employment documents, professional communication, HR documentation, basic business processes, and structured advisory support.",
     image:
-      "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=900&q=85",
   },
   {
     title: "Professional Consultation Services",
@@ -69,7 +69,7 @@ export const services = [
     details:
       "Through consultation, Jurisnexa helps clients identify the right service path, understand available options, prepare next steps, and move forward with better clarity and confidence.",
     image:
-      "https://images.unsplash.com/photo-1556761175-4b46a572b786?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&w=900&q=85",
   },
 ];
 

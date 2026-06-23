@@ -109,7 +109,7 @@ export default function AboutUs() {
         title="About Jurisnexa"
         subtitle="Jurisnexa is a law and recruitment agency in India helping businesses, law firms, professionals, and job seekers access reliable legal support, hiring assistance, staffing solutions, and consultation services."
         description="We bring together legal service support and recruitment expertise to help clients manage documentation, compliance, corporate legal needs, employment support, legal hiring, candidate placement, and professional staffing with confidence."
-        image="https://images.unsplash.com/photo-1556761175-4b46a572b786?auto=format&fit=crop&w=900&q=85"
+        image="https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?auto=format&fit=crop&w=900&q=85"
         ctas={[
           { label: "Explore Services", to: "/our-services" },
           { label: "Book a Consultation", to: "/book-a-consultation" },
@@ -119,7 +119,7 @@ export default function AboutUs() {
       <ImageTextSection
         title="Who We Are"
         description="Jurisnexa is created to support clients who need practical legal guidance and professional recruitment solutions in India. The company works with businesses, startups, law firms, corporate teams, professionals, and job seekers by providing structured support for legal consultation, documentation, compliance guidance, hiring, staffing, and candidate placement. Jurisnexa is designed as a professional platform where legal support and recruitment services come together. Whether a client needs help reviewing legal documentation, hiring legal talent, finding professional staff, or understanding basic compliance requirements, Jurisnexa provides clear direction and organized service support."
-        image="https://images.unsplash.com/photo-1521791055366-0d553872125f?auto=format&fit=crop&w=900&q=85"
+        image="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=900&q=85"
         imageLeft
         cta={{ label: "Explore Services", to: "/our-services" }}
       />
@@ -127,7 +127,7 @@ export default function AboutUs() {
       <ImageTextSection
         title="A Combined Platform for Legal and Recruitment Support"
         description="Jurisnexa serves clients who need dependable legal and hiring assistance without dealing with scattered service providers. The company focuses on practical legal consultation, corporate legal support, compliance assistance, employment documentation, legal recruitment, staffing, HR hiring, and candidate placement services. Our approach is simple: understand the client's requirement, recommend the right service direction, provide professional support, and help the client move forward with clarity."
-        image="https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=900&q=85"
+        image="https://images.unsplash.com/photo-1758518731462-d091b0b4ed0d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGxlZ2FsJTIwcmVjcnVpdG1lbnR8ZW58MHx8MHx8fDA%3D"
         imageLeft={false}
         cta={{ label: "Contact Us", to: "/contact-us" }}
       />
@@ -135,7 +135,7 @@ export default function AboutUs() {
       <ImageTextSection
         title="Our Mission"
         description="Our mission is to make legal support, recruitment assistance, and professional hiring services more accessible, organized, and reliable for businesses, law firms, professionals, and job seekers across India. Jurisnexa aims to simplify legal and recruitment processes by offering clear consultation, structured documentation support, practical compliance guidance, legal hiring assistance, staffing solutions, and candidate placement services."
-        image="https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=900&q=85"
+        image="https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=900&q=85"
         imageLeft
         cta={{ label: "Book a Consultation", to: "/book-a-consultation" }}
       />
@@ -157,7 +157,7 @@ export default function AboutUs() {
       <ImageTextSection
         title="What We Do"
         description="Jurisnexa provides legal and recruitment-related services for businesses, law firms, professionals, and job seekers. The company supports both service sides: legal assistance and hiring support."
-        image="https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=900&q=85"
+        image="https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=900&q=85"
         imageLeft
         bullets={[
           "Legal consultation",
@@ -175,7 +175,7 @@ export default function AboutUs() {
       <ImageTextSection
         title="Who We Serve"
         description="Jurisnexa works with clients across legal, business, HR, compliance, and professional service environments in India."
-        image="https://images.unsplash.com/photo-1521791055366-0d553872125f?auto=format&fit=crop&w=900&q=85"
+        image="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=900&q=85"
         imageLeft={false}
         bullets={whoWeServe}
         cta={{ label: "Explore Services", to: "/our-services" }}

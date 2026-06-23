@@ -32,7 +32,7 @@ export default function Blogs() {
         title="Legal, Recruitment and Career Insights"
         subtitle="Explore helpful articles from Jurisnexa on legal awareness, business documentation, compliance support, recruitment trends, legal hiring, staffing solutions, and career guidance in India."
         description="Our blogs are created to help businesses, law firms, HR teams, professionals, candidates, and job seekers understand important legal, hiring, and workplace topics in a clear and practical way."
-        image="https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=900&q=85"
+        image="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=900&q=85"
         ctas={[
           { label: "Explore Services", to: "/our-services" },
           { label: "Book a Consultation", to: "/book-a-consultation" },
@@ -130,7 +130,7 @@ export default function Blogs() {
       <ImageTextSection
         title="Topics We Cover"
         description="Jurisnexa blogs are written to educate visitors, build trust, and support SEO for legal, recruitment, compliance, hiring, staffing, and career search terms in India."
-        image="https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=900&q=85"
+        image="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
         imageLeft={false}
         bullets={topicAreas}
         cta={{ label: "Explore Services", to: "/our-services" }}

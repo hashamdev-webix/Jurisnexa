@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import { Globe2, Mail, MapPin } from "lucide-react";
 
 const quickLinks = [
   { to: "/", label: "Home" },
@@ -21,12 +22,12 @@ const serviceLinks = [
 
 export default function Footer() {
   return (
-    <footer className="bg-navy text-white">
+    <footer className="border-t-4 border-gold bg-navy text-white">
       <div className="mx-auto max-w-7xl px-4 py-14 sm:px-6 lg:px-8">
         <div className="grid gap-10 md:grid-cols-2 lg:grid-cols-4">
           <div className="lg:col-span-1">
             <img
-              src="/logo.jpeg"
+              src="/logo.PNG"
               alt="Jurisnexa Logo"
               className="mb-5 h-20 w-auto rounded-sm object-contain"
             />
@@ -78,16 +79,31 @@ export default function Footer() {
             <h3 className="mb-4 text-base font-semibold uppercase tracking-wider text-gold">
               Contact Details
             </h3>
-            <ul className="space-y-2 text-base text-white/75">
-              <li>
-                Email:{" "}
+            <ul className="space-y-4 text-base text-white/75">
+              <li className="flex items-center gap-3">
+                <Mail
+                  size={20}
+                  className="shrink-0 text-gold"
+                  aria-hidden="true"
+                />
                 <a href="mailto:info@jurisnexa.org" className="hover:text-gold">
                   info@jurisnexa.org
                 </a>
               </li>
-              <li>Location: India</li>
-              <li>
-                Website:{" "}
+              <li className="flex items-center gap-3">
+                <MapPin
+                  size={20}
+                  className="shrink-0 text-gold"
+                  aria-hidden="true"
+                />
+                <span>India</span>
+              </li>
+              <li className="flex items-center gap-3">
+                <Globe2
+                  size={20}
+                  className="shrink-0 text-gold"
+                  aria-hidden="true"
+                />
                 <a href="https://www.jurisnexa.org" className="hover:text-gold">
                   www.jurisnexa.org
                 </a>

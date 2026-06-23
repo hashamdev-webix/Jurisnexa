@@ -34,7 +34,7 @@ export default function BookConsultation() {
         title="Book a Consultation With Jurisnexa"
         subtitle="Schedule a consultation for legal guidance, recruitment support, staffing solutions, compliance assistance, candidate placement, or professional advisory services in India."
         description="Tell us what kind of support you need and our team will help guide you toward the right service direction."
-        image="https://images.unsplash.com/photo-1556761175-4b46a572b786?auto=format&fit=crop&w=900&q=85"
+        image="https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=900&q=85"
         ctas={[
           { label: "Book Consultation Below", to: "#consultation-form" },
           { label: "Explore Services", to: "/our-services", variant: "outline" },
