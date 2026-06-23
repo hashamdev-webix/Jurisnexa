@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { Globe2, Mail, MapPin } from "lucide-react";
+import { FaFacebookF, FaInstagram, FaXTwitter } from "react-icons/fa6";
 
 const quickLinks = [
   { to: "/", label: "Home" },
@@ -81,6 +82,14 @@ export default function Footer() {
             </h3>
             <ul className="space-y-4 text-base text-white/75">
               <li className="flex items-center gap-3">
+                <MapPin
+                  size={20}
+                  className="shrink-0 text-gold"
+                  aria-hidden="true"
+                />
+                <span>India</span>
+              </li>
+              <li className="flex items-center gap-3">
                 <Mail
                   size={20}
                   className="shrink-0 text-gold"
@@ -89,14 +98,6 @@ export default function Footer() {
                 <a href="mailto:info@jurisnexa.org" className="hover:text-gold">
                   info@jurisnexa.org
                 </a>
-              </li>
-              <li className="flex items-center gap-3">
-                <MapPin
-                  size={20}
-                  className="shrink-0 text-gold"
-                  aria-hidden="true"
-                />
-                <span>India</span>
               </li>
               <li className="flex items-center gap-3">
                 <Globe2
@@ -109,27 +110,18 @@ export default function Footer() {
                 </a>
               </li>
             </ul>
+
             <div className="mt-4 flex gap-4">
-              <a
-                href="#"
-                className="text-base text-white/75 hover:text-gold"
-                aria-label="Facebook"
-              >
-                FB
+              <a href="#" className="text-white/75 hover:text-gold">
+                <FaFacebookF size={20} />
               </a>
-              <a
-                href="#"
-                className="text-base text-white/75 hover:text-gold"
-                aria-label="Instagram"
-              >
-                Instagram
+
+              <a href="#" className="text-white/75 hover:text-gold">
+                <FaInstagram size={20} />
               </a>
-              <a
-                href="#"
-                className="text-base text-white/75 hover:text-gold"
-                aria-label="X"
-              >
-                X
+
+              <a href="#" className="text-white/75 hover:text-gold">
+                <FaXTwitter size={20} />
               </a>
             </div>
           </div>
