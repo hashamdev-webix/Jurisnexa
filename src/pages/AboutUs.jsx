@@ -111,7 +111,7 @@ export default function AboutUs() {
         description="We bring together legal service support and recruitment expertise to help clients manage documentation, compliance, corporate legal needs, employment support, legal hiring, candidate placement, and professional staffing with confidence."
         image="https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?auto=format&fit=crop&w=900&q=85"
         ctas={[
-          { label: "Explore Services", to: "/our-services" },
+          { label: "Explore Services", to: "/paralegal-services" },
           { label: "Book a Consultation", to: "/book-a-consultation" },
         ]}
       />
@@ -121,7 +121,7 @@ export default function AboutUs() {
         description="Jurisnexa is created to support clients who need practical legal guidance and professional recruitment solutions in India. The company works with businesses, startups, law firms, corporate teams, professionals, and job seekers by providing structured support for legal consultation, documentation, compliance guidance, hiring, staffing, and candidate placement. Jurisnexa is designed as a professional platform where legal support and recruitment services come together. Whether a client needs help reviewing legal documentation, hiring legal talent, finding professional staff, or understanding basic compliance requirements, Jurisnexa provides clear direction and organized service support."
         image="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=900&q=85"
         imageLeft
-        cta={{ label: "Explore Services", to: "/our-services" }}
+        cta={{ label: "Explore Services", to: "/paralegal-services" }}
       />
 
       <ImageTextSection
@@ -145,7 +145,7 @@ export default function AboutUs() {
         description="Our vision is to become a trusted legal and recruitment support platform in India, known for professional service, ethical guidance, dependable hiring support, and client-focused solutions. Jurisnexa aims to support the growth of Indian businesses, law firms, and professionals by connecting legal service needs with recruitment solutions under one reliable platform."
         image="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=900&q=85"
         imageLeft={false}
-        cta={{ label: "Explore Services", to: "/our-services" }}
+        cta={{ label: "Explore Services", to: "/paralegal-services" }}
       />
 
       <ValueBlocks
@@ -169,7 +169,7 @@ export default function AboutUs() {
           "Employment and business advisory",
           "Professional consultation services",
         ]}
-        cta={{ label: "Explore Services", to: "/our-services" }}
+        cta={{ label: "Explore Services", to: "/paralegal-services" }}
       />
 
       <ImageTextSection
@@ -178,7 +178,7 @@ export default function AboutUs() {
         image="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=900&q=85"
         imageLeft={false}
         bullets={whoWeServe}
-        cta={{ label: "Explore Services", to: "/our-services" }}
+        cta={{ label: "Explore Services", to: "/paralegal-services" }}
       />
 
       <BenefitBlocks

@@ -12,7 +12,7 @@ const slides = [
     image:
       "https://images.unsplash.com/photo-1505664194779-8beaceb93744?auto=format&fit=crop&w=1400&q=85",
     ctas: [
-      { label: "Explore Services", to: "/our-services" },
+      { label: "Explore Services", to: "/paralegal-services" },
       { label: "Book a Consultation", to: "/book-a-consultation" },
     ],
   },
@@ -25,7 +25,7 @@ const slides = [
     image:
       "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1400&q=85",
     ctas: [
-      { label: "Explore Services", to: "/our-services" },
+      { label: "Explore Services", to: "/paralegal-services" },
       { label: "Contact Us", to: "/contact-us", outline: true },
     ],
   },
@@ -59,7 +59,7 @@ export default function HeroSlideshow() {
   return (
     <section className="relative overflow-hidden bg-navy text-white">
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(201,162,39,0.2),transparent_34%)]" />
-      <div className="relative mx-auto grid max-w-screen-2xl items-stretch gap-10 px-4 py-12 sm:px-6 lg:grid-cols-2 lg:px-8 lg:py-14">
+      <div className="relative grid w-full items-stretch gap-10 px-4 py-12 sm:px-6 lg:grid-cols-2 lg:px-10 lg:py-14">
         <div className="flex min-h-[390px] flex-col justify-center">
           <h1 className="text-3xl font-bold leading-tight sm:text-4xl lg:text-5xl">
             {slide.title}

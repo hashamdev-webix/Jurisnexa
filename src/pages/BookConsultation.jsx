@@ -39,14 +39,14 @@ export default function BookConsultation() {
           { label: "Book Consultation Below", to: "#consultation-form" },
           {
             label: "Explore Services",
-            to: "/our-services",
+            to: "/paralegal-services",
             variant: "outline",
           },
         ]}
       />
 
       <section className="bg-white py-14" id="consultation-form">
-        <div className="mx-auto grid max-w-screen-2xl gap-12 px-4 sm:px-6 lg:grid-cols-2 lg:px-8">
+        <div className="grid w-full gap-12 px-4 sm:px-6 lg:grid-cols-2 lg:px-10">
           <div>
             <h2 className="text-2xl font-bold text-navy sm:text-3xl">
               Request a Consultation
@@ -82,14 +82,14 @@ export default function BookConsultation() {
               ))}
             </ul>
             <div className="mt-8">
-              <CTAButton to="/our-services">Explore Services</CTAButton>
+              <CTAButton to="/paralegal-services">Explore Services</CTAButton>
             </div>
           </div>
         </div>
       </section>
 
       <section className="bg-slate-50 py-14">
-        <div className="mx-auto max-w-screen-2xl px-4 sm:px-6 lg:px-8">
+        <div className="w-full px-4 sm:px-6 lg:px-10">
           <h2 className="mb-10 text-center text-2xl font-bold text-navy sm:text-3xl">
             How the Consultation Process Works
           </h2>

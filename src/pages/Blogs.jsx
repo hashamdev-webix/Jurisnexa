@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Link, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import { HeroBanner, ImageTextSection, FinalCTA } from "../components/Sections";
 import BlogListItem from "../components/BlogListItem";
 import { blogs, blogCategories } from "../data/blogs";
@@ -34,7 +34,7 @@ export default function Blogs() {
         description="Our blogs are created to help businesses, law firms, HR teams, professionals, candidates, and job seekers understand important legal, hiring, and workplace topics in a clear and practical way."
         image="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=900&q=85"
         ctas={[
-          { label: "Explore Services", to: "/our-services" },
+          { label: "Explore Services", to: "/paralegal-services" },
           { label: "Book a Consultation", to: "/book-a-consultation" },
         ]}
       />
@@ -57,7 +57,7 @@ export default function Blogs() {
 
       {featured && (
         <section className="bg-slate-50 py-14">
-          <div className="mx-auto grid max-w-screen-2xl items-center gap-8 px-4 sm:px-6 lg:grid-cols-2 lg:px-8">
+          <div className="grid w-full items-center gap-8 px-4 sm:px-6 lg:grid-cols-2 lg:px-10">
             <div className="overflow-hidden rounded-lg shadow-xl">
               <img
                 src={featured.image}
@@ -99,7 +99,7 @@ export default function Blogs() {
       )}
 
       <section className="py-12">
-        <div className="mx-auto max-w-screen-2xl px-4 sm:px-6 lg:px-8">
+        <div className="w-full px-4 sm:px-6 lg:px-10">
           <h2 className="text-2xl font-bold text-navy">Explore Blog Topics</h2>
           <p className="mt-2 text-base text-slate-muted">
             Browse blogs by topic depending on whether you are looking for legal
@@ -126,7 +126,7 @@ export default function Blogs() {
       </section>
 
       <section className="pb-16">
-        <div className="mx-auto max-w-screen-2xl px-4 sm:px-6 lg:px-8">
+        <div className="w-full px-4 sm:px-6 lg:px-10">
           <h2 className="mb-6 text-2xl font-bold text-navy">Latest Articles</h2>
           {filtered.length > 0 ? (
             filtered.map((blog) => <BlogListItem key={blog.slug} blog={blog} />)
@@ -144,7 +144,7 @@ export default function Blogs() {
         image="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
         imageLeft={false}
         bullets={topicAreas}
-        cta={{ label: "Explore Services", to: "/our-services" }}
+        cta={{ label: "Explore Services", to: "/paralegal-services" }}
       />
 
       <FinalCTA

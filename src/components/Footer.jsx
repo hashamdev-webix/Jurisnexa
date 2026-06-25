@@ -5,26 +5,26 @@ import { FaFacebookF, FaInstagram, FaXTwitter } from "react-icons/fa6";
 const quickLinks = [
   { to: "/", label: "Home" },
   { to: "/about-us", label: "About Us" },
-  { to: "/our-services", label: "Our Services" },
+  { to: "/paralegal-services", label: "Paralegal Services" },
+  { to: "/recruitment-services", label: "Recruitment Services" },
   { to: "/blogs", label: "Blogs" },
   { to: "/contact-us", label: "Contact Us" },
   { to: "/book-a-consultation", label: "Book a Consultation" },
 ];
 
 const serviceLinks = [
-  "Legal Consultation",
-  "Corporate Legal Support",
-  "Compliance Assistance",
-  "Legal Recruitment",
-  "Staffing Solutions",
-  "Candidate Placement",
-  "Employment Advisory",
+  { to: "/paralegal-services", label: "Paralegal Consultation" },
+  { to: "/paralegal-services", label: "Corporate Paralegal Support" },
+  { to: "/paralegal-services", label: "Compliance Assistance" },
+  { to: "/paralegal-services", label: "Contract Support" },
+  { to: "/paralegal-services", label: "HR Documentation" },
+  { to: "/paralegal-services", label: "Matter File Support" },
 ];
 
 export default function Footer() {
   return (
     <footer className="border-t-4 border-gold bg-navy text-white">
-      <div className="mx-auto max-w-screen-2xl px-4 py-14 sm:px-6 lg:px-8">
+      <div className="w-full px-4 py-14 sm:px-6 lg:px-10">
         <div className="grid gap-10 md:grid-cols-2 lg:grid-cols-4">
           <div className="lg:col-span-1">
             <img
@@ -33,10 +33,10 @@ export default function Footer() {
               className="h-20 w-auto rounded-sm object-contain sm:h-32 lg:h-36"
             />
             <p className="leading-relaxed text-white/75">
-              Jurisnexa is a law and recruitment agency in India offering legal
-              consultation, corporate legal support, compliance guidance, legal
-              recruitment, staffing solutions, candidate placement, and
-              professional advisory services.
+              Jurisnexa is a paralegal and recruitment support platform in
+              India offering documentation support, compliance coordination,
+              staffing assistance, candidate placement, and professional
+              advisory services.
             </p>
           </div>
 
@@ -64,12 +64,12 @@ export default function Footer() {
             </h3>
             <ul className="space-y-2">
               {serviceLinks.map((service) => (
-                <li key={service}>
+                <li key={service.label}>
                   <Link
-                    to="/our-services"
+                    to={service.to}
                     className="text-base text-white/75 transition-colors hover:text-gold"
                   >
-                    {service}
+                    {service.label}
                   </Link>
                 </li>
               ))}

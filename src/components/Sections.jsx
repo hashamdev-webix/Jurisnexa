@@ -85,7 +85,7 @@ export function HeroBanner({
     <section
       className={`py-12 lg:py-14 ${dark ? "bg-navy text-white" : "bg-slate-100"}`}
     >
-      <div className="mx-auto grid max-w-screen-2xl items-stretch gap-10 px-4 sm:px-6 lg:grid-cols-2 lg:px-8">
+      <div className="grid w-full items-stretch gap-10 px-4 sm:px-6 lg:grid-cols-2 lg:px-10">
         <div className="flex min-h-[360px] flex-col justify-center">
           <h1 className="text-3xl font-bold leading-tight sm:text-4xl lg:text-5xl">
             {title}
@@ -188,7 +188,7 @@ export function ImageTextSection({
 
   return (
     <section className="bg-slate-50 py-12 lg:py-14">
-      <div className="mx-auto grid max-w-screen-2xl items-center gap-8 px-4 sm:px-6 lg:grid-cols-2 lg:px-8">
+      <div className="grid w-full items-center gap-8 px-4 sm:px-6 lg:grid-cols-2 lg:px-10">
         {imageLeft ? (
           <>
             {imageBlock}
@@ -208,7 +208,7 @@ export function ImageTextSection({
 export function ProcessSteps({ title, steps }) {
   return (
     <section className="bg-white py-14">
-      <div className="mx-auto max-w-screen-2xl px-4 sm:px-6 lg:px-8">
+      <div className="w-full px-4 sm:px-6 lg:px-10">
         <h2 className="mb-10 text-center text-2xl font-bold text-navy sm:text-3xl">
           {title}
         </h2>
@@ -233,7 +233,7 @@ export function ProcessSteps({ title, steps }) {
 export function BenefitBlocks({ title, description, benefits, cta }) {
   return (
     <section className="bg-slate-50 py-14">
-      <div className="mx-auto max-w-screen-2xl px-4 sm:px-6 lg:px-8">
+      <div className="w-full px-4 sm:px-6 lg:px-10">
         <div className="mx-auto max-w-3xl text-center">
           <h2 className="text-2xl font-bold text-navy sm:text-3xl">{title}</h2>
           {description && (
@@ -266,7 +266,7 @@ export function BenefitBlocks({ title, description, benefits, cta }) {
 export function ValueBlocks({ title, description, values }) {
   return (
     <section className="bg-white py-14">
-      <div className="mx-auto max-w-screen-2xl px-4 sm:px-6 lg:px-8">
+      <div className="w-full px-4 sm:px-6 lg:px-10">
         <div className="mx-auto max-w-3xl text-center">
           <h2 className="text-2xl font-bold text-navy sm:text-3xl">{title}</h2>
           {description && (

@@ -75,11 +75,11 @@ export default function Home() {
         description="Jurisnexa is a professional law and recruitment agency in India created to support businesses, law firms, professionals, and job seekers with reliable legal guidance and hiring solutions. We bring legal service support and recruitment assistance together under one platform so clients can access consultation, documentation support, compliance guidance, legal hiring, staffing solutions, and candidate placement services with confidence."
         image="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&w=900&q=85"
         imageLeft
-        cta={{ label: "Explore Services", to: "/our-services" }}
+        cta={{ label: "Explore Services", to: "/paralegal-services" }}
       />
 
       <section className="bg-white py-14">
-        <div className="mx-auto max-w-screen-2xl px-4 sm:px-6 lg:px-8">
+        <div className="w-full px-4 sm:px-6 lg:px-10">
           <div className="mx-auto max-w-3xl text-center">
             <h2 className="text-2xl font-bold text-navy sm:text-3xl">
               What Jurisnexa Offers
@@ -106,7 +106,7 @@ export default function Home() {
             ))}
           </div>
           <div className="mt-10 text-center">
-            <CTAButton to="/our-services">Explore Services</CTAButton>
+            <CTAButton to="/paralegal-services">Explore Services</CTAButton>
           </div>
         </div>
       </section>
@@ -149,7 +149,7 @@ export default function Home() {
         image="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=900&q=85"
         imageLeft={false}
         bullets={whoWeHelp}
-        cta={{ label: "Explore Services", to: "/our-services" }}
+        cta={{ label: "Explore Services", to: "/paralegal-services" }}
       />
 
       <BenefitBlocks

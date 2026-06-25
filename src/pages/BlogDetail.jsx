@@ -51,7 +51,7 @@ export default function BlogDetail() {
         ))}
         <div className="mt-10 flex flex-wrap gap-4">
           <CTAButton to="/book-a-consultation">Book a Consultation</CTAButton>
-          <CTAButton to="/our-services" variant="outline">
+          <CTAButton to="/paralegal-services" variant="outline">
             Explore Services
           </CTAButton>
         </div>

@@ -13,14 +13,14 @@ export default function ContactUs() {
           { label: "Book a Consultation", to: "/book-a-consultation" },
           {
             label: "Explore Services",
-            to: "/our-services",
+            to: "/paralegal-services",
             variant: "outline",
           },
         ]}
       />
 
       <section className="bg-white py-14">
-        <div className="mx-auto grid max-w-screen-2xl gap-12 px-4 sm:px-6 lg:grid-cols-2 lg:px-8">
+        <div className="grid w-full gap-12 px-4 sm:px-6 lg:grid-cols-2 lg:px-10">
           <div>
             <h2 className="text-2xl font-bold text-navy sm:text-3xl">
               Send Us a Message
@@ -76,7 +76,7 @@ export default function ContactUs() {
             placement, employment advisory, or professional consultation.
           </p>
           <div className="mt-8 flex flex-wrap justify-center gap-4">
-            <CTAButton to="/our-services">Explore Services</CTAButton>
+            <CTAButton to="/paralegal-services">Explore Services</CTAButton>
             <CTAButton to="/book-a-consultation" variant="outline">
               Book a Consultation
             </CTAButton>
