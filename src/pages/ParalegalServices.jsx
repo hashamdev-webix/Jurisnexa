@@ -104,7 +104,7 @@ const detailSections = [
     ],
     imageFirst: true,
     image:
-      "https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=1000&q=85",
+      "https://images.unsplash.com/photo-1781268034959-8706486c22a4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8UGFwZXJ3b3JrJTIwU3VwcG9ydHxlbnwwfHwwfHx8MA%3D%3D",
     tags: [
       "Appointment letters",
       "Offer letters",
@@ -136,28 +136,28 @@ const detailSections = [
       "Submission packs",
     ],
   },
-  {
-    layout: "documentMockup",
-    title: "Contact & Consultation Coordination",
-    cardTitle: "Clear Contact & Consultation Support",
-    intro:
-      "A simple contact flow for clients who need help deciding what documents are required, which support category fits their work, and how to begin the consultation process.",
-    body: [
-      "Jurisnexa helps with requirement intake, document collection guidance, consultation booking, follow-up communication, and next-step coordination.",
-      "This keeps the first conversation organised, so clients can share the right details before work begins.",
-    ],
-    imageFirst: true,
-    image:
-      "https://images.unsplash.com/photo-1556761175-4b46a572b786?auto=format&fit=crop&w=1000&q=85",
-    tags: [
-      "Requirement intake",
-      "Document checklist",
-      "Consultation booking",
-      "Follow-up support",
-      "Client coordination",
-      "Next-step guidance",
-    ],
-  },
+  // {
+  //   layout: "documentMockup",
+  //   title: "Contact & Consultation Coordination",
+  //   cardTitle: "Clear Contact & Consultation Support",
+  //   intro:
+  //     "A simple contact flow for clients who need help deciding what documents are required, which support category fits their work, and how to begin the consultation process.",
+  //   body: [
+  //     "Jurisnexa helps with requirement intake, document collection guidance, consultation booking, follow-up communication, and next-step coordination.",
+  //     "This keeps the first conversation organised, so clients can share the right details before work begins.",
+  //   ],
+  //   imageFirst: true,
+  //   image:
+  //     "https://images.unsplash.com/photo-1556761175-4b46a572b786?auto=format&fit=crop&w=1000&q=85",
+  //   tags: [
+  //     "Requirement intake",
+  //     "Document checklist",
+  //     "Consultation booking",
+  //     "Follow-up support",
+  //     "Client coordination",
+  //     "Next-step guidance",
+  //   ],
+  // },
 ];
 
 const processSteps = [
@@ -340,7 +340,7 @@ export default function ParalegalServices() {
           </div>
           <div className="overflow-hidden rounded-lg shadow-2xl">
             <img
-              src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1100&q=85"
+              src="https://plus.unsplash.com/premium_photo-1694476607274-003dd175d073?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHBhcmFsZWdhbCUyMHNlcnZpY2VzfGVufDB8fDB8fHww"
               alt=""
               className="h-80 w-full object-cover sm:h-96 lg:h-[440px]"
             />
